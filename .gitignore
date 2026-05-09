@@ -1,0 +1,18 @@
+# Environments
+venv/
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Vector Database (Too large for Git)
+data/chroma_db/
+
+# IDE files
+.vscode/
+.idea/
+
+# Mac OS files
+.DS_Store

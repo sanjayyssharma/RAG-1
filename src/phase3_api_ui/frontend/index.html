@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HDFC Mutual Fund Assistant</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <button class="new-chat-btn" id="newChatBtn">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 5v14M5 12h14"></path>
+            </svg>
+            New Chat
+        </button>
+
+        <nav class="nav-links">
+            <a href="#" class="nav-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M3 3v18h18"/>
+                    <path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"/>
+                </svg>
+                Fund Explorer
+            </a>
+            <a href="#" class="nav-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21.21 15.89A10 10 0 1 1 8 2.83"/>
+                    <path d="M22 12A10 10 0 0 0 12 2v10z"/>
+                </svg>
+                Portfolio Analysis
+            </a>
+            <a href="#" class="nav-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"/>
+                    <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/>
+                    <line x1="12" y1="17" x2="12.01" y2="17"/>
+                </svg>
+                Help Center
+            </a>
+        </nav>
+
+        <div class="user-profile">
+            <div class="avatar">
+                <svg viewBox="0 0 24 24">
+                    <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                    <circle cx="12" cy="7" r="4"></circle>
+                </svg>
+            </div>
+            <div class="profile-info">
+                <span class="profile-name">Premium User</span>
+                <span class="upgrade-link">Upgrade Plan</span>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Top Header -->
+        <header class="top-header">
+            <div class="header-title">HDFC Mutual Fund <span>Assistant</span></div>
+            <div class="disclaimer-banner">FACTS-ONLY. NO INVESTMENT ADVICE.</div>
+            <div class="header-icons">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"/>
+                    <polyline points="12 6 12 12 16 14"/>
+                </svg>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                    <circle cx="12" cy="7" r="4"></circle>
+                </svg>
+            </div>
+        </header>
+
+        <!-- Chat Area -->
+        <div class="chat-container" id="chatContainer">
+            <!-- Initial State Elements -->
+            <div id="initialState">
+                <div class="welcome-card">
+                    <p>How can I assist your research today?</p>
+                    <p>I can provide facts, historical data, and document summaries for all<br>HDFC Mutual Fund schemes.</p>
+                </div>
+
+                <div class="suggestions-box">
+                    <button class="suggestion-pill">What is the exit load for HDFC Flexi Cap?</button>
+                    <button class="suggestion-pill">What are the top holdings of HDFC Mid Cap?</button>
+                    <button class="suggestion-pill">Should I invest in HDFC Large Cap?</button>
+                </div>
+            </div>
+            <!-- Dynamic Messages will be appended here -->
+        </div>
+
+        <!-- Input Area -->
+        <div class="input-section">
+            <form class="input-container" id="chatForm">
+                <input type="text" id="userInput" placeholder="Ask about fund performance, risk factors, or scheme details..." autocomplete="off" required>
+                <button type="submit" class="send-btn" id="sendBtn">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"></path>
+                    </svg>
+                </button>
+            </form>
+            <div class="bottom-disclaimer">
+                HDFC MF Assistant may provide information from statutory documents. Always read scheme related documents carefully.
+            </div>
+        </div>
+    </main>
+
+    <script>
+        const chatForm = document.getElementById('chatForm');
+        const userInput = document.getElementById('userInput');
+        const chatContainer = document.getElementById('chatContainer');
+        const sendBtn = document.getElementById('sendBtn');
+        const initialState = document.getElementById('initialState');
+        const suggestions = document.querySelectorAll('.suggestion-pill');
+        const newChatBtn = document.getElementById('newChatBtn');
+
+        const API_URL = 'http://127.0.0.1:8000/chat';
+
+        // Reset Chat
+        newChatBtn.addEventListener('click', () => {
+            chatContainer.innerHTML = '';
+            chatContainer.appendChild(initialState);
+            initialState.style.display = 'block';
+        });
+
+        function appendMessage(sender, text, source = null, footer = null) {
+            if (initialState.parentNode) {
+                initialState.style.display = 'none';
+            }
+
+            const wrapper = document.createElement('div');
+            wrapper.className = `message-wrapper ${sender}`;
+
+            const bubble = document.createElement('div');
+            bubble.className = 'message-bubble';
+
+            if (sender === 'user') {
+                bubble.textContent = text;
+            } else {
+                let innerHTML = `<div class="bot-answer">${text}</div>`;
+                if (source) {
+                    innerHTML += `
+                    <div class="bot-source">
+                        <svg viewBox="0 0 24 24"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+                        <a href="${source}" target="_blank">Source: Official Document</a>
+                    </div>`;
+                }
+                if (footer) {
+                    innerHTML += `<div class="bot-footer">${footer}</div>`;
+                }
+                bubble.innerHTML = innerHTML;
+            }
+
+            wrapper.appendChild(bubble);
+            chatContainer.appendChild(wrapper);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+
+        function showLoading() {
+            if (initialState.parentNode) {
+                initialState.style.display = 'none';
+            }
+            const wrapper = document.createElement('div');
+            wrapper.className = 'message-wrapper bot';
+            wrapper.id = 'loadingIndicator';
+            
+            const loader = document.createElement('div');
+            loader.className = 'loading-indicator';
+            loader.innerHTML = '<div class="dot"></div><div class="dot"></div><div class="dot"></div>';
+            
+            wrapper.appendChild(loader);
+            chatContainer.appendChild(wrapper);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+
+        function removeLoading() {
+            const loader = document.getElementById('loadingIndicator');
+            if (loader) loader.remove();
+        }
+
+        suggestions.forEach(btn => {
+            btn.addEventListener('click', () => {
+                userInput.value = btn.textContent;
+                chatForm.dispatchEvent(new Event('submit'));
+            });
+        });
+
+        chatForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const query = userInput.value.trim();
+            if (!query) return;
+
+            appendMessage('user', query);
+            userInput.value = '';
+            sendBtn.disabled = true;
+
+            showLoading();
+
+            try {
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query })
+                });
+
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+
+                const data = await response.json();
+                removeLoading();
+                appendMessage('bot', data.answer, data.source, data.footer);
+            } catch (error) {
+                removeLoading();
+                appendMessage('bot', "Connection Error: Ensure the FastAPI backend is running on port 8000.");
+            } finally {
+                sendBtn.disabled = false;
+                userInput.focus();
+            }
+        });
+    </script>
+</body>
+</html>
