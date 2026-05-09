@@ -116,6 +116,9 @@
         const suggestions = document.querySelectorAll('.suggestion-pill');
         const newChatBtn = document.getElementById('newChatBtn');
 
+        // NOTE: For local testing, use 'http://127.0.0.1:8000/chat'
+        // For production, replace this with your actual Railway URL:
+        // const API_URL = 'https://<your-railway-app>.up.railway.app/chat';
         const API_URL = 'http://127.0.0.1:8000/chat';
 
         // Reset Chat

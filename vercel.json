@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/src/phase3_api_ui/frontend/$1"
+    }
+  ]
+}

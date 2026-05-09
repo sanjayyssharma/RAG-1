@@ -27,6 +27,16 @@ app.add_middleware(
 
 from typing import Optional
 
+@app.on_event("startup")
+def startup_event():
+    """Ensure the Vector DB is built on server startup (Crucial for Railway deployment)."""
+    chroma_dir = os.path.join(PROJECT_ROOT, "data", "chroma_db")
+    if not os.path.exists(chroma_dir):
+        print("Vector DB not found. Initializing from Markdown corpus...")
+        # Import the vector store logic to build the DB
+        from src.phase1_ingestion.phase1_4_vectordb.vector_store import populate_database
+        populate_database()
+
 # Schemas
 class ChatRequest(BaseModel):
     query: str
