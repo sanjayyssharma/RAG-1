@@ -1,15 +1,15 @@
 # HDFC Large Cap Fund Direct Growth
 
-NAV: 11 May '26₹1,185.39Min. for SIP₹100Fund size (AUM)₹38,121.27 CrExpense ratio0.98%Rating4### Return calculator
+NAV: 12 May '26₹1,162.42Min. for SIP₹100Fund size (AUM)₹38,121.27 CrExpense ratio1.09%Rating4### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹58,114 |  | -3.14% |
-| 3 years | ₹1,80,000 | ₹1,90,461 |  | +5.81% |
-| 5 years | ₹3,00,000 | ₹3,82,189 |  | +27.40% |
-| 10 years | ₹6,00,000 | ₹11,61,348 |  | +93.56% |
+| 1 year | ₹60,000 | ₹57,058 |  | -4.90% |
+| 3 years | ₹1,80,000 | ₹1,86,814 |  | +3.79% |
+| 5 years | ₹3,00,000 | ₹3,74,762 |  | +24.92% |
+| 10 years | ₹6,00,000 | ₹11,38,578 |  | +89.76% |
 
 ## Holdings (46)
 
@@ -80,9 +80,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +12.8% | +13.7% | +13.9% | +13.1% |
+| Fund returns | +12.0% | +13.3% | +13.6% | +12.9% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 46 | 15 | 11 | -- |
+| Rank (Equity Large Cap) | 46 | 17 | 11 | -- |
 
 ## Understand terms
 
@@ -117,11 +117,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Invesco India Largecap Fund Direct Growth | +6.07% | +16.80% | 1,536.88 |
-|  | Nippon India Large Cap Fund Direct Growth | +5.11% | +16.19% | 51,690.28 |
-|  | WhiteOak Capital Large Cap Fund Direct Growth | +4.50% | +16.06% | 1,045.06 |
-|  | ICICI Prudential Large Cap Fund Direct Growth | +2.14% | +15.36% | 69,947.55 |
-|  | DSP Large Cap Fund Direct Growth | -0.21% | +15.16% | 7,192.01 |
+|  | Invesco India Largecap Fund Direct Growth | +0.16% | +15.84% | 1,721.89 |
+|  | Nippon India Large Cap Fund Direct Growth | -0.74% | +15.36% | 51,690.28 |
+|  | WhiteOak Capital Large Cap Fund Direct Growth | -0.90% | +15.31% | 1,163.57 |
+|  | ICICI Prudential Large Cap Fund Direct Growth | -2.84% | +14.71% | 75,650.43 |
+|  | DSP Large Cap Fund Direct Growth | -4.70% | +14.43% | 7,192.01 |
 | Compare  |
 
 ### Fund management
@@ -132,10 +132,10 @@ EducationMr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering g
 
 EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Arbitrage Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Wholesale Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### About HDFC Large Cap Fund Direct Growth
 
-HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹8,54,364 Cr and the Latest NAV as of 11 May 2026 is ₹1,185.39.
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 12 May 2026 is ₹1,162.42.
 The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;#### Investment Objective
 
 The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.Fund benchmarkNIFTY 100 Total Return IndexScheme Information Document(SID)### Fund house
 
-HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹8,54,364.43 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020CustodianHDFC BankRegistrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,37,047.59 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020CustodianHDFC BankRegistrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
