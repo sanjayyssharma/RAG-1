@@ -1,51 +1,51 @@
 # HDFC Focused Fund Direct Growth
 
-NAV: 13 May '26₹249.79Min. for SIP₹100Fund size (AUM)₹26,182.15 CrExpense ratio0.77%Rating5### Return calculator
+NAV: 14 May '26₹252.82Min. for SIP₹100Fund size (AUM)₹26,182.15 CrExpense ratio0.76%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹57,347 |  | -4.42% |
-| 3 years | ₹1,80,000 | ₹2,01,925 |  | +12.18% |
-| 5 years | ₹3,00,000 | ₹4,35,003 |  | +45.00% |
-| 10 years | ₹6,00,000 | ₹14,11,898 |  | +135.32% |
+| 1 year | ₹60,000 | ₹58,012 |  | -3.31% |
+| 3 years | ₹1,80,000 | ₹2,04,280 |  | +13.49% |
+| 5 years | ₹3,00,000 | ₹4,40,042 |  | +46.68% |
+| 10 years | ₹6,00,000 | ₹14,28,316 |  | +138.05% |
 
 ## Holdings (31)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd. | Financial | Equity | 9.33% |
-| HDFC Bank Ltd. | Financial | Equity | 8.63% |
-| Axis Bank Ltd. | Financial | Equity | 7.21% |
-| State Bank of India | Financial | Equity | 5.72% |
-| Kotak Mahindra Bank Ltd. | Financial | Equity | 5.52% |
-| HCL Technologies Ltd. | Technology | Equity | 4.47% |
-| Bharti Airtel Ltd. | Communication | Equity | 3.77% |
-| Cipla Ltd. | Healthcare | Equity | 3.68% |
+| ICICI Bank Ltd. | Financial | Equity | 9.02% |
+| HDFC Bank Ltd. | Financial | Equity | 8.41% |
+| Axis Bank Ltd. | Financial | Equity | 7.27% |
+| State Bank of India | Financial | Equity | 5.76% |
+| Kotak Mahindra Bank Ltd. | Financial | Equity | 5.53% |
+| HCL Technologies Ltd. | Technology | Equity | 3.89% |
+| Bharti Airtel Ltd. | Communication | Equity | 3.69% |
 | Maruti Suzuki India Ltd. | Automobile | Equity | 3.58% |
-| SBI Life Insurance Company Ltd. | Insurance | Equity | 3.57% |
-| Power Grid Corporation Of India Ltd. | Energy | Equity | 3.31% |
-| Eternal Ltd. | Services | Equity | 3.29% |
-| Eicher Motors Ltd. | Automobile | Equity | 3.25% |
-| Interglobe Aviation Ltd. | Services | Equity | 2.91% |
-| Havells India Ltd. | Capital Goods | Equity | 2.64% |
-| Tata Steel Ltd. | Metals & Mining | Equity | 2.54% |
-| Karur Vysya Bank Ltd. | Financial | Equity | 2.25% |
-| FSN E-Commerce Ventures Ltd. | Services | Equity | 1.94% |
-| Nexus Select Trust | Construction | REITs | 1.87% |
-| Bajaj Auto Ltd. | Automobile | Equity | 1.70% |
-| Piramal Pharma Ltd. | Healthcare | Equity | 1.70% |
-| Hyundai Motor India Ltd. | Automobile | Equity | 1.62% |
-| Chalet Hotels Ltd. | Services | Equity | 1.59% |
-| Escorts Kubota Ltd. | Automobile | Equity | 1.53% |
-| Amber Enterprises India Ltd. | Consumer Discretionary | Equity | 1.40% |
-| CIE Automotive India Ltd. | Metals & Mining | Equity | 1.31% |
-| Metropolis Healthcare Ltd. | Healthcare | Equity | 1.22% |
-| Bosch Ltd. | Automobile | Equity | 1.19% |
-| Sapphire Foods India Ltd. | Services | Equity | 0.59% |
-| Restaurant Brands Asia Ltd. | Services | Equity | 0.53% |
-| GOI | Sovereign | GOI Sec | 0.21% |
+| SBI Life Insurance Company Ltd. | Insurance | Equity | 3.58% |
+| Eternal Ltd. | Services | Equity | 3.53% |
+| Cipla Ltd. | Healthcare | Equity | 3.49% |
+| Power Grid Corporation Of India Ltd. | Energy | Equity | 3.28% |
+| Eicher Motors Ltd. | Automobile | Equity | 3.24% |
+| Interglobe Aviation Ltd. | Services | Equity | 3.05% |
+| Tata Steel Ltd. | Metals & Mining | Equity | 2.58% |
+| Havells India Ltd. | Capital Goods | Equity | 2.54% |
+| Karur Vysya Bank Ltd. | Financial | Equity | 2.11% |
+| FSN E-Commerce Ventures Ltd. | Services | Equity | 2.02% |
+| Nexus Select Trust | Construction | REITs | 1.78% |
+| Bosch Ltd. | Automobile | Equity | 1.73% |
+| Escorts Kubota Ltd. | Automobile | Equity | 1.67% |
+| Piramal Pharma Ltd. | Healthcare | Equity | 1.60% |
+| Hyundai Motor India Ltd. | Automobile | Equity | 1.60% |
+| Chalet Hotels Ltd. | Services | Equity | 1.58% |
+| Amber Enterprises India Ltd. | Consumer Discretionary | Equity | 1.58% |
+| CIE Automotive India Ltd. | Metals & Mining | Equity | 1.28% |
+| Metropolis Healthcare Ltd. | Healthcare | Equity | 1.24% |
+| Sapphire Foods India Ltd. | Services | Equity | 0.72% |
+| CG Power and Industrial Solutions Ltd. | Capital Goods | Equity | 0.59% |
+| Restaurant Brands Asia Ltd. | Services | Equity | 0.56% |
+| GOI | Sovereign | GOI Sec | 0.19% |
 
 See All### Minimum investments
 
@@ -65,9 +65,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +18.1% | +20.6% | +15.6% | +14.6% |
+| Fund returns | +18.5% | +21.1% | +15.7% | +14.7% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 13 | 2 | 8 | -- |
+| Rank (Equity Flexi Cap) | 14 | 2 | 8 | -- |
 
 ## Understand terms
 
@@ -102,11 +102,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | JM Flexicap Fund Direct Plan Growth | -1.10% | +19.47% | 5,040.51 |
-|  | HDFC Flexi Cap Direct Plan Growth | +0.05% | +18.46% | 1,00,479.23 |
-|  | HSBC Flexi Cap Fund Direct Growth | +4.99% | +18.40% | 5,405.12 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | +0.99% | +16.46% | 1,40,949.13 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -3.64% | +15.56% | 19,049.25 |
+|  | JM Flexicap Fund Direct Plan Growth | -0.62% | +19.79% | 5,040.51 |
+|  | HDFC Flexi Cap Direct Plan Growth | +0.82% | +18.87% | 1,00,479.23 |
+|  | HSBC Flexi Cap Fund Direct Growth | +4.80% | +18.65% | 5,405.12 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | +1.28% | +16.71% | 1,40,949.13 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -3.14% | +15.92% | 19,049.25 |
 | Compare  |
 
 ### Fund management
@@ -117,7 +117,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Focused Fund Direct Growth
 
-HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 13 May 2026 is ₹249.79.
+HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 14 May 2026 is ₹252.82.
 The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;#### Investment Objective
 
