@@ -1,6 +1,6 @@
 # HDFC Flexi Cap Direct Plan Growth
 
-NAV: 27 May '26₹2,159.84Min. for SIP₹100Fund size (AUM)₹1,00,479.23 CrExpense ratio0.72%Rating5### Return calculator
+NAV: 27 May '26₹2,159.84Min. for SIP₹100Fund size (AUM)₹1,00,479.23 CrExpense ratio0.71%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
@@ -104,7 +104,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +19.0% | +18.5% | +16.9% | +16.0% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 12 | 4 | 3 | -- |
+| Rank (Equity Flexi Cap) | 12 | 4 | 4 | -- |
 
 ## Understand terms
 
