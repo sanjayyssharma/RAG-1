@@ -1,14 +1,14 @@
 
-HDFC Flexi Cap Direct Plan Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlog+17.75%3Y annualised-0.11% 1D1M6M1Y3Y5YAllNAV: 03 Jun '26₹2,115.54Min. for SIP₹100Fund size (AUM)₹1,00,479.23 CrExpense ratio0.68%Rating5### Return calculator
+HDFC Flexi Cap Direct Plan Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlog+17.78%3Y annualised+0.14% 1D1M6M1Y3Y5YAllNAV: 04 Jun '26₹2,118.50Min. for SIP₹100Fund size (AUM)₹1,00,479.23 CrExpense ratio0.68%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹58,015 |  | -3.31% |
-| 3 years | ₹1,80,000 | ₹2,01,355 |  | +11.86% |
-| 5 years | ₹3,00,000 | ₹4,29,527 |  | +43.18% |
-| 10 years | ₹6,00,000 | ₹14,38,796 |  | +139.80% |
+| 1 year | ₹60,000 | ₹58,106 |  | -3.16% |
+| 3 years | ₹1,80,000 | ₹2,01,595 |  | +12.00% |
+| 5 years | ₹3,00,000 | ₹4,29,965 |  | +43.32% |
+| 10 years | ₹6,00,000 | ₹14,40,194 |  | +140.03% |
 
 ## Holdings (68)
 
@@ -103,7 +103,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.8% | +17.5% | +16.5% | +15.7% |
+| Fund returns | +17.8% | +17.5% | +16.5% | +15.8% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
 | Rank (Equity Flexi Cap) | 12 | 4 | 3 | -- |
 
@@ -143,11 +143,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | ITI Flexi Cap Fund Direct Growth | +6.23% | +20.02% | 1,290.33 |
-|  | HSBC Flexi Cap Fund Direct Growth | +4.22% | +18.07% | 5,405.12 |
-|  | HDFC Flexi Cap Direct Plan Growth | +0.14% | +17.75% | 1,00,479.23 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -0.15% | +15.28% | 1,40,949.13 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -4.08% | +14.93% | 19,049.25 |
+|  | ITI Flexi Cap Fund Direct Growth | +6.16% | +20.20% | 1,290.33 |
+|  | HSBC Flexi Cap Fund Direct Growth | +3.96% | +18.20% | 5,405.12 |
+|  | HDFC Flexi Cap Direct Plan Growth | +0.14% | +17.78% | 1,00,479.23 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | -0.26% | +15.41% | 1,40,949.13 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -4.41% | +14.94% | 19,049.25 |
 | Compare  |
 
 ### Fund management
@@ -158,7 +158,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Flexi Cap Direct Plan Growth
 
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 03 Jun 2026 is ₹2,115.54.
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 04 Jun 2026 is ₹2,118.50.
 The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ;#### Investment Objective
