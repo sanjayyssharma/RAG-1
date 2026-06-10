@@ -1,88 +1,90 @@
 # HDFC Flexi Cap Direct Plan Growth
 
-NAV: 08 Jun '26₹2,103.13Min. for SIP₹100Fund size (AUM)₹1,00,479.23 CrExpense ratio0.68%Rating5### Return calculator
+NAV: 09 Jun '26₹2,120.95Min. for SIP₹100Fund size (AUM)₹1,01,821.82 CrExpense ratio0.68%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹57,743 |  | -3.76% |
-| 3 years | ₹1,80,000 | ₹1,99,983 |  | +11.10% |
-| 5 years | ₹3,00,000 | ₹4,26,224 |  | +42.07% |
-| 10 years | ₹6,00,000 | ₹14,27,338 |  | +137.89% |
+| 1 year | ₹60,000 | ₹58,225 |  | -2.96% |
+| 3 years | ₹1,80,000 | ₹2,01,617 |  | +12.01% |
+| 5 years | ₹3,00,000 | ₹4,29,650 |  | +43.22% |
+| 10 years | ₹6,00,000 | ₹14,38,780 |  | +139.80% |
 
-## Holdings (68)
+## Holdings (70)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd. | Financial | Equity | 8.69% |
-| Axis Bank Ltd. | Financial | Equity | 6.83% |
-| HDFC Bank Ltd. | Financial | Equity | 6.81% |
+| ICICI Bank Ltd | Financial | Equity | 8.69% |
+| Axis Bank Ltd | Financial | Equity | 6.83% |
+| HDFC Bank Ltd | Financial | Equity | 6.81% |
 | State Bank of India | Financial | Equity | 4.74% |
-| SBI Life Insurance Company Ltd. | Insurance | Equity | 3.79% |
-| Kotak Mahindra Bank Ltd. | Financial | Equity | 3.47% |
-| Larsen & Toubro Ltd. | Construction | Equity | 3.35% |
-| Bharti Airtel Ltd. | Communication | Equity | 3.10% |
-| Maruti Suzuki India Ltd. | Automobile | Equity | 2.78% |
-| Power Grid Corporation Of India Ltd. | Energy | Equity | 2.78% |
-| Cipla Ltd. | Healthcare | Equity | 2.74% |
-| Eternal Ltd. | Services | Equity | 2.55% |
-| HCL Technologies Ltd. | Technology | Equity | 2.54% |
-| Eicher Motors Ltd. | Automobile | Equity | 2.46% |
-| Interglobe Aviation Ltd. | Services | Equity | 2.43% |
-| Reliance Industries Ltd. | Energy | Equity | 2.19% |
-| Bajaj Auto Ltd. | Automobile | Equity | 1.99% |
-| JSW Steel Ltd. | Metals & Mining | Equity | 1.72% |
-| Nexus Select Trust | Construction | REITs | 1.70% |
-| Hyundai Motor India Ltd. | Automobile | Equity | 1.63% |
-| Infosys Ltd. | Technology | Equity | 1.57% |
-| Tata Steel Ltd. | Metals & Mining | Equity | 1.45% |
-| Piramal Pharma Ltd. | Healthcare | Equity | 1.45% |
-| Max Healthcare Institute Ltd. | Healthcare | Equity | 1.42% |
+| Repo | Unspecified | Repo | 4.47% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.79% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 3.47% |
+| Larsen & Toubro Ltd | Industrials | Equity | 3.35% |
+| Bharti Airtel Ltd | Technology | Equity | 3.10% |
+| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.78% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 2.78% |
+| Cipla Ltd | Healthcare | Equity | 2.74% |
+| Zomato Ltd | Technology | Equity | 2.55% |
+| HCL Technologies Ltd | Technology | Equity | 2.54% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 2.46% |
+| Interglobe Aviation Ltd | Industrials | Equity | 2.43% |
+| Reliance Industries Ltd | Energy & Utilities | Equity | 2.19% |
+| Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.99% |
+| JSW Steel Ltd | Materials | Equity | 1.72% |
+| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.70% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.63% |
+| Infosys Ltd | Technology | Equity | 1.57% |
+| Piramal Pharma Ltd | Healthcare | Equity | 1.45% |
+| Tata Steel Ltd | Materials | Equity | 1.45% |
+| Max Healthcare Institute Ltd | Healthcare | Equity | 1.42% |
 | Bank Of Baroda | Financial | Equity | 1.36% |
-| Divi's Laboratories Ltd. | Healthcare | Equity | 1.17% |
-| Persistent Systems Ltd. | Technology | Equity | 1.17% |
-| Bosch Ltd. | Automobile | Equity | 1.09% |
-| PB Fintech Ltd. | Services | Equity | 0.94% |
-| FSN E-Commerce Ventures Ltd. | Services | Equity | 0.82% |
-| Oil And Natural Gas Corporation Ltd. | Energy | Equity | 0.79% |
-| Lupin Ltd. | Healthcare | Equity | 0.76% |
-| United Spirits Ltd. | Consumer Staples | Equity | 0.76% |
-| Vishal Mega Mart Ltd. | Services | Equity | 0.71% |
-| Havells India Ltd. | Capital Goods | Equity | 0.61% |
-| Dr. Lal Pathlabs Ltd. | Healthcare | Equity | 0.57% |
-| Varroc Engineering Ltd. | Automobile | Equity | 0.57% |
+| Divi's Laboratories Ltd | Healthcare | Equity | 1.17% |
+| Persistent Systems Ltd | Technology | Equity | 1.17% |
+| Bosch Ltd | Consumer Discretionary | Equity | 1.09% |
+| PB Fintech Ltd | Financial | Equity | 0.94% |
+| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 0.82% |
+| Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.79% |
+| Lupin Ltd | Healthcare | Equity | 0.76% |
+| United Spirits Ltd | Consumer Staples | Equity | 0.76% |
+| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 0.71% |
+| Havells India Ltd | Consumer Discretionary | Equity | 0.61% |
 | Anthem Biosciences Ltd. | Healthcare | Equity | 0.57% |
-| Embassy Office Parks REIT | Construction | REITs | 0.55% |
-| Apollo Hospitals Enterprise Ltd. | Healthcare | Equity | 0.55% |
-| Kalpataru Projects International Ltd. | Capital Goods | Equity | 0.54% |
-| Britannia Industries Ltd. | Consumer Staples | Equity | 0.54% |
-| Nuvoco Vistas Corporation Ltd. | Construction | Equity | 0.52% |
-| Cyient Ltd. | Technology | Equity | 0.48% |
-| Prestige Estates Projects Ltd. | Construction | Equity | 0.47% |
-| CIE Automotive India Ltd. | Metals & Mining | Equity | 0.47% |
-| Sapphire Foods India Ltd. | Services | Equity | 0.41% |
-| BSE Ltd. | Services | Equity | 0.40% |
-| Crompton Greaves Consumer Electricals Ltd. | Consumer Discretionary | Equity | 0.39% |
-| Escorts Kubota Ltd. | Automobile | Equity | 0.39% |
-| Aster DM Healthcare Ltd. | Healthcare | Equity | 0.37% |
-| The Ramco Cements Ltd. | Construction | Equity | 0.37% |
-| Dixon Technologies (India) Ltd. | Capital Goods | Equity | 0.35% |
-| Ashok Leyland Ltd. | Automobile | Equity | 0.33% |
-| JK Lakshmi Cement Ltd. | Construction | Equity | 0.32% |
-| Metropolis Healthcare Ltd. | Healthcare | Equity | 0.31% |
-| GOI | Sovereign | GOI Sec | 0.29% |
-| Swiggy Ltd. | Services | Equity | 0.29% |
-| Multi Commodity Exchange Of India Ltd. | Services | Equity | 0.24% |
-| Restaurant Brands Asia Ltd. | Services | Equity | 0.22% |
-| Tata Consultancy Services Ltd. | Technology | Equity | 0.17% |
-| Cohance Lifesciences Ltd. | Healthcare | Equity | 0.16% |
-| Birlasoft Ltd. | Technology | Equity | 0.16% |
-| GOI | Sovereign | GOI Sec | 0.11% |
-| GOI | Sovereign | GOI Sec | 0.10% |
-| Hindustan Petroleum Corporation Ltd. | Energy | Equity | 0.04% |
-| Bharat Electronics Ltd. | Capital Goods | Equity | 0.02% |
-| Ramco Systems Ltd. | Technology | Equity | 0.00% |
+| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 0.57% |
+| Varroc Engineering Ltd | Consumer Discretionary | Equity | 0.57% |
+| Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 0.55% |
+| Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.55% |
+| Britannia Industries Ltd | Consumer Staples | Equity | 0.54% |
+| Kalpataru Power Transmission Ltd | Industrials | Equity | 0.54% |
+| NUVOCO Vistas Corp Ltd | Materials | Equity | 0.52% |
+| Cyient Ltd | Technology | Equity | 0.48% |
+| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.47% |
+| Prestige Estates Projects Ltd | Real Estate | Equity | 0.47% |
+| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.41% |
+| BSE Ltd | Financial | Equity | 0.40% |
+| Escorts Kubota Ltd | Industrials | Equity | 0.39% |
+| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.39% |
+| The Ramco Cements Ltd | Materials | Equity | 0.37% |
+| Aster DM Healthcare Ltd | Healthcare | Equity | 0.37% |
+| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.35% |
+| Ashok Leyland Ltd | Industrials | Equity | 0.33% |
+| JK Lakshmi Cement Ltd | Materials | Equity | 0.32% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 0.31% |
+| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.29% |
+| Swiggy Ltd. | Technology | Equity | 0.29% |
+| Multi Commodity Exchange Of India Ltd | Financial | Equity | 0.24% |
+| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.22% |
+| Tata Consultancy Services Ltd | Technology | Equity | 0.17% |
+| Birlasoft Ltd | Technology | Equity | 0.16% |
+| Suven Pharmaceuticals Ltd | Healthcare | Equity | 0.16% |
+| GOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100 | Entities | GOI Securities | 0.11% |
+| 7.37% GOI CG 23-10-2028 | Entities | GOI Securities | 0.10% |
+| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.04% |
+| Bharat Electronics Ltd | Industrials | Equity | 0.02% |
+| Ramco Systems Ltd | Technology | Equity | 0.00% |
+| Net Payables | Unspecified | Net Payables | -0.10% |
 
 See All### Minimum investments
 
@@ -102,9 +104,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.0% | +17.1% | +16.2% | +15.7% |
+| Fund returns | +17.4% | +17.4% | +16.4% | +15.7% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 13 | 4 | 3 | -- |
+| Rank (Equity Flexi Cap) | 12 | 4 | 3 | -- |
 
 ## Understand terms
 
@@ -140,11 +142,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | ITI Flexi Cap Fund Direct Growth | +3.29% | +19.12% | 1,290.33 |
-|  | HSBC Flexi Cap Fund Direct Growth | -0.05% | +17.10% | 5,405.12 |
-|  | HDFC Flexi Cap Direct Plan Growth | -1.83% | +17.04% | 1,00,479.23 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -3.02% | +15.10% | 1,40,949.13 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -6.94% | +14.09% | 19,049.25 |
+|  | ITI Flexi Cap Fund Direct Growth | +3.81% | +19.71% | 1,290.33 |
+|  | HSBC Flexi Cap Fund Direct Growth | +0.42% | +17.71% | 5,405.12 |
+|  | HDFC Flexi Cap Direct Plan Growth | -1.64% | +17.35% | 1,01,821.82 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | -3.25% | +15.30% | 1,40,949.13 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -6.63% | +14.40% | 19,049.25 |
 | Compare  |
 
 ### Fund management
@@ -155,7 +157,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Flexi Cap Direct Plan Growth
 
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 08 Jun 2026 is ₹2,103.13.
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 09 Jun 2026 is ₹2,120.95.
 The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ;#### Investment Objective
