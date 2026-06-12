@@ -1,15 +1,15 @@
 # HDFC ELSS Tax Saver Fund Direct Plan Growth
 
-NAV: 10 Jun '26₹1,420.51Min. for SIP₹500Fund size (AUM)₹15,366.50 CrExpense ratio1.11%Rating5### Return calculator
+NAV: 11 Jun '26₹1,420.60Min. for SIP₹500Fund size (AUM)₹15,366.50 CrExpense ratio1.17%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹56,598 |  | -5.67% |
-| 3 years | ₹1,80,000 | ₹1,92,029 |  | +6.68% |
-| 5 years | ₹3,00,000 | ₹4,04,351 |  | +34.78% |
-| 10 years | ₹6,00,000 | ₹12,49,466 |  | +108.24% |
+| 1 year | ₹60,000 | ₹56,621 |  | -5.63% |
+| 3 years | ₹1,80,000 | ₹1,92,018 |  | +6.68% |
+| 5 years | ₹3,00,000 | ₹4,04,250 |  | +34.75% |
+| 10 years | ₹6,00,000 | ₹12,49,091 |  | +108.18% |
 
 ## Holdings (58)
 
@@ -92,9 +92,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +15.5% | +16.2% | +14.0% | +13.9% |
+| Fund returns | +15.5% | +16.1% | +14.0% | +13.9% |
 | Category average (Equity ELSS) | +16.4% | +16.5% | +14.0% | -- |
-| Rank (Equity ELSS) | 12 | 4 | 13 | -- |
+| Rank (Equity ELSS) | 12 | 4 | 12 | -- |
 
 ## Understand terms
 
@@ -128,11 +128,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Motilal Oswal ELSS Tax Saver Fund Direct Growth | +2.26% | +23.44% | 4,658.52 |
-|  | SBI ELSS Tax Saver Fund Direct Growth | -4.27% | +18.16% | 30,955.01 |
-|  | WhiteOak Capital ELSS Tax Saver Fund Direct Growth | -2.45% | +17.90% | 455.66 |
-|  | HDFC ELSS Tax Saver Fund Direct Plan Growth | -6.23% | +15.49% | 15,366.50 |
-|  | Parag Parikh ELSS Tax Saver Fund Direct Growth | -9.89% | +12.03% | 5,617.03 |
+|  | Motilal Oswal ELSS Tax Saver Fund Direct Growth | +1.32% | +22.85% | 4,663.26 |
+|  | SBI ELSS Tax Saver Fund Direct Growth | -4.87% | +18.00% | 30,955.01 |
+|  | WhiteOak Capital ELSS Tax Saver Fund Direct Growth | -2.85% | +17.73% | 455.66 |
+|  | HDFC ELSS Tax Saver Fund Direct Plan Growth | -6.35% | +15.48% | 15,366.50 |
+|  | Parag Parikh ELSS Tax Saver Fund Direct Growth | -10.49% | +11.84% | 5,539.59 |
 | Compare  |
 
 ### Fund management
@@ -143,10 +143,10 @@ EducationMr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Busines
 
 EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### About HDFC ELSS Tax Saver Fund Direct Plan Growth
 
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 10 Jun 2026 is ₹1,420.51.
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 11 Jun 2026 is ₹1,420.60.
 The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. 
 ;#### Investment Objective
 
 The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.Fund benchmarkNIFTY 500 Total Return IndexScheme Information Document(SID)### Fund house
 
-HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,37,047.59 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020CustodianDeutsche BankRegistrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,34,237.77 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020CustodianDeutsche BankRegistrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
