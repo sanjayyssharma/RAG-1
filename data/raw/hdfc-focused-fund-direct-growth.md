@@ -70,7 +70,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +17.6% | +19.3% | +15.2% | +14.7% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 12 | 2 | 8 | -- |
+| Rank (Equity Flexi Cap) | 13 | 2 | 10 | -- |
 
 ## Understand terms
 
