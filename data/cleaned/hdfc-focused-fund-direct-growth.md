@@ -15,39 +15,39 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 9.02% |
-| HDFC Bank Ltd | Financial | Equity | 8.41% |
-| Repo | Unspecified | Repo | 7.31% |
-| Axis Bank Ltd | Financial | Equity | 7.27% |
-| State Bank of India | Financial | Equity | 5.76% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 5.53% |
-| HCL Technologies Ltd | Technology | Equity | 3.89% |
-| Bharti Airtel Ltd | Technology | Equity | 3.69% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 3.58% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 3.58% |
-| Zomato Ltd | Technology | Equity | 3.53% |
-| Cipla Ltd | Healthcare | Equity | 3.49% |
-| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 3.28% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 3.24% |
-| Interglobe Aviation Ltd | Industrials | Equity | 3.05% |
-| Tata Steel Ltd | Materials | Equity | 2.58% |
-| Havells India Ltd | Consumer Discretionary | Equity | 2.54% |
-| Karur Vysya Bank Ltd | Financial | Equity | 2.11% |
-| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 2.02% |
-| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.78% |
-| Bosch Ltd | Consumer Discretionary | Equity | 1.73% |
-| Escorts Kubota Ltd | Industrials | Equity | 1.67% |
-| Piramal Pharma Ltd | Healthcare | Equity | 1.60% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.60% |
-| Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.58% |
-| Amber Enterprises India Ltd | Consumer Discretionary | Equity | 1.58% |
-| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 1.28% |
-| Metropolis Healthcare Ltd | Healthcare | Equity | 1.24% |
-| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.72% |
-| CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.59% |
-| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.56% |
+| ICICI Bank Ltd | Financial | Equity | 9.01% |
+| HDFC Bank Ltd | Financial | Equity | 8.14% |
+| Repo | Unspecified | Repo | 7.60% |
+| Axis Bank Ltd | Financial | Equity | 7.40% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 5.56% |
+| State Bank of India | Financial | Equity | 5.22% |
+| HCL Technologies Ltd | Technology | Equity | 3.86% |
+| Cipla Ltd | Healthcare | Equity | 3.75% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 3.70% |
+| Zomato Ltd | Technology | Equity | 3.67% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.62% |
+| Interglobe Aviation Ltd | Industrials | Equity | 3.40% |
+| Bharti Airtel Ltd | Technology | Equity | 3.39% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 3.29% |
+| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 3.01% |
+| Tata Steel Ltd | Materials | Equity | 2.55% |
+| Havells India Ltd | Consumer Discretionary | Equity | 2.42% |
+| Karur Vysya Bank Ltd | Financial | Equity | 2.08% |
+| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 2.01% |
+| Bosch Ltd | Consumer Discretionary | Equity | 1.90% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.88% |
+| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.79% |
+| Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.67% |
+| Amber Enterprises India Ltd | Consumer Discretionary | Equity | 1.51% |
+| Escorts Kubota Ltd | Industrials | Equity | 1.48% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 1.45% |
+| Piramal Pharma Ltd | Healthcare | Equity | 1.42% |
+| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 1.22% |
+| CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.80% |
+| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.64% |
+| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.59% |
 | GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.19% |
-| Net Payables | Unspecified | Net Payables | -0.01% |
+| Net Payables | Unspecified | Net Payables | -0.22% |
 
 See All### Minimum investments
 
@@ -69,7 +69,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +17.6% | +19.3% | +15.2% | +14.7% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 13 | 2 | 10 | -- |
+| Rank (Equity Flexi Cap) | 14 | 2 | 10 | -- |
 
 ## Understand terms
 

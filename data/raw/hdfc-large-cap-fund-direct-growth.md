@@ -16,53 +16,53 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 9.15% |
-| HDFC Bank Ltd | Financial | Equity | 7.84% |
-| Bharti Airtel Ltd | Technology | Equity | 5.90% |
-| Reliance Industries Ltd | Energy & Utilities | Equity | 5.61% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 5.47% |
-| Titan Company Ltd | Consumer Discretionary | Equity | 4.74% |
-| Axis Bank Ltd | Financial | Equity | 3.56% |
-| Torrent Pharmaceuticals Ltd | Healthcare | Equity | 3.49% |
-| Infosys Ltd | Technology | Equity | 3.01% |
-| Bajaj Auto Ltd | Consumer Discretionary | Equity | 2.95% |
-| Lupin Ltd | Healthcare | Equity | 2.79% |
-| Bajaj Finserv Ltd | Financial | Equity | 2.73% |
-| Ambuja Cements Ltd | Materials | Equity | 2.60% |
-| Repo | Unspecified | Repo | 2.53% |
-| State Bank of India | Financial | Equity | 2.43% |
-| NTPC Ltd | Energy & Utilities | Equity | 2.34% |
-| Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 2.15% |
-| Zomato Ltd | Technology | Equity | 1.96% |
-| Tata Motors Ltd | Industrials | Equity | 1.84% |
-| Max Healthcare Institute Ltd | Healthcare | Equity | 1.72% |
-| Interglobe Aviation Ltd | Industrials | Equity | 1.69% |
-| United Spirits Ltd | Consumer Staples | Equity | 1.66% |
-| Mankind Pharma Ltd. | Healthcare | Equity | 1.61% |
-| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.58% |
-| Tata Consumer Products Ltd | Consumer Staples | Equity | 1.52% |
-| Indusind Bank Ltd | Financial | Equity | 1.48% |
-| Havells India Ltd | Consumer Discretionary | Equity | 1.41% |
-| Larsen & Toubro Ltd | Industrials | Equity | 1.38% |
-| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.18% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 1.06% |
-| Swiggy Ltd. | Technology | Equity | 1.05% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.04% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 0.99% |
-| Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 0.95% |
-| SRF Ltd | Materials | Equity | 0.92% |
+| ICICI Bank Ltd | Financial | Equity | 9.18% |
+| HDFC Bank Ltd | Financial | Equity | 7.63% |
+| Bharti Airtel Ltd | Technology | Equity | 5.77% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 5.52% |
+| Reliance Industries Ltd | Energy & Utilities | Equity | 5.22% |
+| Titan Company Ltd | Consumer Discretionary | Equity | 4.44% |
+| Torrent Pharmaceuticals Ltd | Healthcare | Equity | 3.71% |
+| Axis Bank Ltd | Financial | Equity | 3.65% |
+| Bajaj Auto Ltd | Consumer Discretionary | Equity | 3.12% |
+| Bajaj Finserv Ltd | Financial | Equity | 3.10% |
+| Infosys Ltd | Technology | Equity | 2.98% |
+| Lupin Ltd | Healthcare | Equity | 2.77% |
+| Repo | Unspecified | Repo | 2.76% |
+| Ambuja Cements Ltd | Materials | Equity | 2.64% |
+| NTPC Ltd | Energy & Utilities | Equity | 2.28% |
+| State Bank of India | Financial | Equity | 2.22% |
+| Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 2.13% |
+| Larsen & Toubro Ltd | Industrials | Equity | 2.12% |
+| Zomato Ltd | Technology | Equity | 2.01% |
+| Interglobe Aviation Ltd | Industrials | Equity | 1.75% |
+| Tata Motors Ltd | Industrials | Equity | 1.72% |
+| Mankind Pharma Ltd. | Healthcare | Equity | 1.72% |
+| Max Healthcare Institute Ltd | Healthcare | Equity | 1.69% |
+| United Spirits Ltd | Consumer Staples | Equity | 1.60% |
+| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.59% |
+| Tata Consumer Products Ltd | Consumer Staples | Equity | 1.58% |
+| Indusind Bank Ltd | Financial | Equity | 1.49% |
+| Havells India Ltd | Consumer Discretionary | Equity | 1.35% |
+| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.28% |
+| Swiggy Ltd. | Technology | Equity | 1.19% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.11% |
+| Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 1.04% |
+| SRF Ltd | Materials | Equity | 1.00% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 0.98% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 0.84% |
+| Dabur India Ltd | Consumer Staples | Equity | 0.81% |
 | Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.80% |
-| Dabur India Ltd | Consumer Staples | Equity | 0.80% |
-| CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.58% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.57% |
-| TATA CAPITAL LIMITED EQ | Financial | Equity | 0.54% |
-| GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.49% |
-| Tata Motors Ltd | Consumer Discretionary | Equity | 0.48% |
+| TATA CAPITAL LIMITED EQ | Financial | Equity | 0.66% |
+| CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.66% |
+| Tata Motors Ltd | Consumer Discretionary | Equity | 0.55% |
+| GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.50% |
+| Cummins India Ltd | Industrials | Equity | 0.36% |
 | DLF Ltd | Real Estate | Equity | 0.33% |
-| Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.33% |
-| Cummins India Ltd | Industrials | Equity | 0.32% |
-| Hindalco Industries Ltd | Materials | Equity | 0.24% |
+| Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.28% |
+| Hindalco Industries Ltd | Materials | Equity | 0.27% |
 | SBI Life Insurance Company Ltd | Financial | Equity | 0.19% |
+| Net Payables | Unspecified | Net Payables | -0.59% |
 
 See All### Minimum investments
 
