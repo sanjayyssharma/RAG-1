@@ -1,15 +1,15 @@
 # HDFC ELSS Tax Saver Fund Direct Plan Growth
 
-NAV: 19 Jun '26₹1,470.46Min. for SIP₹500Fund size (AUM)₹15,366.50 CrExpense ratio1.19%Rating5### Return calculator
+NAV: 22 Jun '26₹1,478.06Min. for SIP₹500Fund size (AUM)₹15,366.50 CrExpense ratio1.19%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹58,566 |  | -2.39% |
-| 3 years | ₹1,80,000 | ₹1,98,362 |  | +10.20% |
-| 5 years | ₹3,00,000 | ₹4,17,140 |  | +39.05% |
-| 10 years | ₹6,00,000 | ₹12,88,814 |  | +114.80% |
+| 1 year | ₹60,000 | ₹58,859 |  | -1.90% |
+| 3 years | ₹1,80,000 | ₹1,99,247 |  | +10.69% |
+| 5 years | ₹3,00,000 | ₹4,18,822 |  | +39.61% |
+| 10 years | ₹6,00,000 | ₹12,93,950 |  | +115.66% |
 
 ## Holdings (59)
 
@@ -93,7 +93,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +16.3% | +17.1% | +14.3% | +14.2% |
+| Fund returns | +16.5% | +17.1% | +14.3% | +14.2% |
 | Category average (Equity ELSS) | +16.4% | +16.5% | +14.0% | -- |
 | Rank (Equity ELSS) | 12 | 4 | 15 | -- |
 
@@ -129,11 +129,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Motilal Oswal ELSS Tax Saver Fund Direct Growth | +11.97% | +24.21% | 4,663.26 |
-|  | SBI ELSS Tax Saver Fund Direct Growth | +1.52% | +18.86% | 30,955.01 |
-|  | WhiteOak Capital ELSS Tax Saver Fund Direct Growth | +3.77% | +18.63% | 455.66 |
-|  | HDFC ELSS Tax Saver Fund Direct Plan Growth | -2.03% | +16.29% | 15,366.50 |
-|  | Parag Parikh ELSS Tax Saver Fund Direct Growth | -6.46% | +12.60% | 5,539.59 |
+|  | Motilal Oswal ELSS Tax Saver Fund Direct Growth | +9.97% | +24.32% | 4,663.26 |
+|  | SBI ELSS Tax Saver Fund Direct Growth | +1.51% | +19.28% | 30,955.01 |
+|  | WhiteOak Capital ELSS Tax Saver Fund Direct Growth | +3.23% | +18.83% | 455.66 |
+|  | HDFC ELSS Tax Saver Fund Direct Plan Growth | -2.51% | +16.48% | 15,366.50 |
+|  | Parag Parikh ELSS Tax Saver Fund Direct Growth | -6.79% | +12.64% | 5,539.59 |
 | Compare  |
 
 ### Fund management
@@ -144,7 +144,7 @@ EducationMr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Busines
 
 EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### About HDFC ELSS Tax Saver Fund Direct Plan Growth
 
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 19 Jun 2026 is ₹1,470.46.
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 22 Jun 2026 is ₹1,478.06.
 The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. 
 ;#### Investment Objective
 
