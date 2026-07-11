@@ -1,14 +1,14 @@
 
-HDFC Focused Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlog+17.63%3Y annualised+0.68% 1D1M6M1Y3Y5YAllNAV: 09 Jul '26₹264.65Min. for SIP₹100Fund size (AUM)₹27,303.27 CrExpense ratio0.78%Rating5### Return calculator
+HDFC Focused Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlog+18.12%3Y annualised+0.93% 1D1M6M1Y3Y5YAllNAV: 10 Jul '26₹267.10Min. for SIP₹100Fund size (AUM)₹27,303.27 CrExpense ratio0.78%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹60,615 |  | +1.03% |
-| 3 years | ₹1,80,000 | ₹2,07,545 |  | +15.30% |
-| 5 years | ₹3,00,000 | ₹4,46,363 |  | +48.79% |
-| 10 years | ₹6,00,000 | ₹14,65,903 |  | +144.32% |
+| 1 year | ₹60,000 | ₹61,148 |  | +1.91% |
+| 3 years | ₹1,80,000 | ₹2,09,386 |  | +16.33% |
+| 5 years | ₹3,00,000 | ₹4,50,277 |  | +50.09% |
+| 10 years | ₹6,00,000 | ₹14,78,780 |  | +146.46% |
 
 ## Holdings (33)
 
@@ -16,39 +16,39 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 9.01% |
-| HDFC Bank Ltd | Financial | Equity | 8.14% |
-| Repo | Unspecified | Repo | 7.60% |
-| Axis Bank Ltd | Financial | Equity | 7.40% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 5.56% |
-| State Bank of India | Financial | Equity | 5.22% |
-| HCL Technologies Ltd | Technology | Equity | 3.86% |
-| Cipla Ltd | Healthcare | Equity | 3.75% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 3.70% |
-| Zomato Ltd | Technology | Equity | 3.67% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 3.62% |
-| Interglobe Aviation Ltd | Industrials | Equity | 3.40% |
-| Bharti Airtel Ltd | Technology | Equity | 3.39% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 3.29% |
-| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 3.01% |
-| Tata Steel Ltd | Materials | Equity | 2.55% |
-| Havells India Ltd | Consumer Discretionary | Equity | 2.42% |
-| Karur Vysya Bank Ltd | Financial | Equity | 2.08% |
-| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 2.01% |
-| Bosch Ltd | Consumer Discretionary | Equity | 1.90% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.88% |
+| ICICI Bank Ltd | Financial | Equity | 9.17% |
+| HDFC Bank Ltd | Financial | Equity | 8.34% |
+| Axis Bank Ltd | Financial | Equity | 7.39% |
+| Repo | Unspecified | Repo | 7.32% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 5.43% |
+| State Bank of India | Financial | Equity | 5.31% |
+| Zomato Ltd | Technology | Equity | 4.19% |
+| Interglobe Aviation Ltd | Industrials | Equity | 4.15% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 3.80% |
+| Cipla Ltd | Healthcare | Equity | 3.73% |
+| HCL Technologies Ltd | Technology | Equity | 3.34% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.33% |
+| Bharti Airtel Ltd | Technology | Equity | 3.28% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 3.10% |
+| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.83% |
+| Havells India Ltd | Consumer Discretionary | Equity | 2.27% |
+| Tata Steel Ltd | Materials | Equity | 2.20% |
+| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 2.11% |
+| Bosch Ltd | Consumer Discretionary | Equity | 2.07% |
+| Karur Vysya Bank Ltd | Financial | Equity | 2.06% |
 | Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.79% |
-| Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.67% |
-| Amber Enterprises India Ltd | Consumer Discretionary | Equity | 1.51% |
-| Escorts Kubota Ltd | Industrials | Equity | 1.48% |
-| Metropolis Healthcare Ltd | Healthcare | Equity | 1.45% |
-| Piramal Pharma Ltd | Healthcare | Equity | 1.42% |
-| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 1.22% |
-| CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.80% |
-| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.64% |
-| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.59% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.78% |
+| JSW Infrastructure Ltd | Industrials | Equity | 1.70% |
+| Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.65% |
+| Escorts Kubota Ltd | Industrials | Equity | 1.45% |
+| Amber Enterprises India Ltd | Consumer Discretionary | Equity | 1.42% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 1.35% |
+| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 1.19% |
+| CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.79% |
+| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.65% |
+| Piramal Pharma Ltd | Healthcare | Equity | 0.53% |
 | GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.19% |
-| Net Payables | Unspecified | Net Payables | -0.22% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.09% |
 
 See All### Minimum investments
 
@@ -68,7 +68,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.6% | +20.1% | +15.3% | +14.9% |
+| Fund returns | +18.1% | +20.3% | +15.4% | +15.0% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | -- | -- |
 | Rank (Equity Flexi Cap) | 4 | 1 | 3 | -- |
 
@@ -107,11 +107,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Bank of India Flexi Cap Fund Direct Growth | +8.82% | +21.65% | 2,459.86 |
-|  | ITI Flexi Cap Fund Direct Growth | +8.22% | +20.30% | 1,314.38 |
-|  | HDFC Flexi Cap Direct Plan Growth | +1.76% | +17.50% | 1,06,495.63 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -3.30% | +14.52% | 18,796.71 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -2.65% | +14.42% | 1,41,446.73 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +9.64% | +22.22% | 2,615.05 |
+|  | ITI Flexi Cap Fund Direct Growth | +9.73% | +20.95% | 1,314.38 |
+|  | HDFC Flexi Cap Direct Plan Growth | +3.05% | +18.05% | 1,06,495.63 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -1.97% | +14.98% | 19,274.14 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | -2.60% | +14.53% | 1,43,388.43 |
 | Compare  |
 
 ### Fund management
@@ -122,7 +122,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Focused Fund Direct Growth
 
-HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 09 Jul 2026 is ₹264.65.
+HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 10 Jul 2026 is ₹267.10.
 The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;#### Investment Objective
 

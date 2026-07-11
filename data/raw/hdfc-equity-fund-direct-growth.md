@@ -1,95 +1,98 @@
 
-HDFC Flexi Cap Direct Plan Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlog+17.50%3Y annualised+0.69% 1D1M6M1Y3Y5YAllNAV: 09 Jul '26₹2,218.45Min. for SIP₹100Fund size (AUM)₹1,06,495.63 CrExpense ratio0.78%Rating5### Return calculator
+HDFC Flexi Cap Direct Plan Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlog+18.05%3Y annualised+1.00% 1D1M6M1Y3Y5YAllNAV: 10 Jul '26₹2,240.66Min. for SIP₹100Fund size (AUM)₹1,06,495.63 CrExpense ratio0.78%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹60,719 |  | +1.20% |
-| 3 years | ₹1,80,000 | ₹2,07,675 |  | +15.38% |
-| 5 years | ₹3,00,000 | ₹4,42,630 |  | +47.54% |
-| 10 years | ₹6,00,000 | ₹14,86,732 |  | +147.79% |
+| 1 year | ₹60,000 | ₹61,297 |  | +2.16% |
+| 3 years | ₹1,80,000 | ₹2,09,671 |  | +16.48% |
+| 5 years | ₹3,00,000 | ₹4,46,844 |  | +48.95% |
+| 10 years | ₹6,00,000 | ₹15,00,894 |  | +150.15% |
 
-## Holdings (74)
+## Holdings (77)
 
 
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 8.83% |
+| ICICI Bank Ltd | Financial | Equity | 9.18% |
 | Axis Bank Ltd | Financial | Equity | 6.84% |
-| HDFC Bank Ltd | Financial | Equity | 6.48% |
-| Repo | Unspecified | Repo | 4.56% |
-| State Bank of India | Financial | Equity | 4.22% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 3.76% |
-| Larsen & Toubro Ltd | Industrials | Equity | 3.55% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 3.43% |
-| Bharti Airtel Ltd | Technology | Equity | 2.96% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 2.91% |
-| Cipla Ltd | Healthcare | Equity | 2.89% |
-| Interglobe Aviation Ltd | Industrials | Equity | 2.79% |
-| Zomato Ltd | Technology | Equity | 2.73% |
-| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.51% |
-| HCL Technologies Ltd | Technology | Equity | 2.47% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 2.46% |
-| Reliance Industries Ltd | Energy & Utilities | Equity | 2.01% |
-| Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.78% |
-| JSW Steel Ltd | Materials | Equity | 1.72% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.70% |
-| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.68% |
-| Piramal Pharma Ltd | Healthcare | Equity | 1.53% |
-| Max Healthcare Institute Ltd | Healthcare | Equity | 1.38% |
-| Infosys Ltd | Technology | Equity | 1.32% |
-| Tata Steel Ltd | Materials | Equity | 1.30% |
-| Persistent Systems Ltd | Technology | Equity | 1.25% |
-| PB Fintech Ltd | Financial | Equity | 1.18% |
-| Divi's Laboratories Ltd | Healthcare | Equity | 1.18% |
-| Bosch Ltd | Consumer Discretionary | Equity | 1.10% |
+| HDFC Bank Ltd | Financial | Equity | 6.77% |
+| State Bank of India | Financial | Equity | 4.30% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.47% |
+| Larsen & Toubro Ltd | Industrials | Equity | 3.45% |
+| Interglobe Aviation Ltd | Industrials | Equity | 3.26% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 3.26% |
+| Repo | Unspecified | Repo | 3.18% |
+| Zomato Ltd | Technology | Equity | 3.05% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 2.99% |
+| Bharti Airtel Ltd | Technology | Equity | 2.87% |
+| Cipla Ltd | Healthcare | Equity | 2.80% |
+| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.39% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 2.32% |
+| HCL Technologies Ltd | Technology | Equity | 2.14% |
+| Reliance Industries Ltd | Energy & Utilities | Equity | 1.97% |
+| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.69% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.61% |
+| Max Healthcare Institute Ltd | Healthcare | Equity | 1.56% |
+| JSW Steel Ltd | Materials | Equity | 1.53% |
+| Piramal Pharma Ltd | Healthcare | Equity | 1.42% |
+| Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.30% |
+| PB Fintech Ltd | Financial | Equity | 1.25% |
+| Bosch Ltd | Consumer Discretionary | Equity | 1.14% |
+| Tata Steel Ltd | Materials | Equity | 1.12% |
+| Divi's Laboratories Ltd | Healthcare | Equity | 1.11% |
+| Persistent Systems Ltd | Technology | Equity | 1.10% |
+| Lupin Ltd | Healthcare | Equity | 0.84% |
+| Infosys Ltd | Technology | Equity | 0.82% |
 | FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 0.80% |
-| Britannia Industries Ltd | Consumer Staples | Equity | 0.77% |
-| Lupin Ltd | Healthcare | Equity | 0.74% |
-| United Spirits Ltd | Consumer Staples | Equity | 0.72% |
-| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 0.70% |
-| Bank Of Baroda | Financial | Equity | 0.69% |
-| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 0.66% |
-| Aster DM Healthcare Ltd | Healthcare | Equity | 0.64% |
-| Varroc Engineering Ltd | Consumer Discretionary | Equity | 0.60% |
-| NUVOCO Vistas Corp Ltd | Materials | Equity | 0.60% |
+| Britannia Industries Ltd | Consumer Staples | Equity | 0.73% |
+| United Spirits Ltd | Consumer Staples | Equity | 0.73% |
+| Aster DM Healthcare Ltd | Healthcare | Equity | 0.66% |
+| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 0.65% |
+| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 0.65% |
+| Varroc Engineering Ltd | Consumer Discretionary | Equity | 0.64% |
+| Anthem Biosciences Ltd. | Healthcare | Equity | 0.60% |
 | Kalpataru Power Transmission Ltd | Industrials | Equity | 0.59% |
-| Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 0.58% |
-| Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.58% |
-| Anthem Biosciences Ltd. | Healthcare | Equity | 0.57% |
-| Havells India Ltd | Consumer Discretionary | Equity | 0.57% |
-| Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.55% |
-| Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 0.51% |
-| Cyient Ltd | Technology | Equity | 0.49% |
-| Prestige Estates Projects Ltd | Real Estate | Equity | 0.45% |
-| BSE Ltd | Financial | Equity | 0.44% |
-| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.44% |
-| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.40% |
-| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.36% |
-| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.36% |
-| Metropolis Healthcare Ltd | Healthcare | Equity | 0.35% |
-| Ashok Leyland Ltd | Industrials | Equity | 0.34% |
-| The Ramco Cements Ltd | Materials | Equity | 0.34% |
-| Escorts Kubota Ltd | Industrials | Equity | 0.34% |
-| TVS Motor Company Ltd | Consumer Discretionary | Equity | 0.29% |
-| JK Lakshmi Cement Ltd | Materials | Equity | 0.29% |
-| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.29% |
-| Swiggy Ltd. | Technology | Equity | 0.27% |
-| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.25% |
-| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.23% |
-| Birlasoft Ltd | Technology | Equity | 0.13% |
-| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.12% |
-| Neuland Laboratories Ltd | Healthcare | Equity | 0.12% |
+| Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 0.59% |
+| ACME Solar Holdings Ltd. | Energy & Utilities | Equity | 0.58% |
+| JSW Infrastructure Ltd | Industrials | Equity | 0.56% |
+| Havells India Ltd | Consumer Discretionary | Equity | 0.53% |
+| Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.53% |
+| Craftsman Automation Ltd | Consumer Discretionary | Equity | 0.50% |
+| NUVOCO Vistas Corp Ltd | Materials | Equity | 0.50% |
+| Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.49% |
+| Prestige Estates Projects Ltd | Real Estate | Equity | 0.49% |
+| Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 0.48% |
+| Bank Of Baroda | Financial | Equity | 0.45% |
+| Cyient Ltd | Technology | Equity | 0.44% |
+| Ashok Leyland Ltd | Industrials | Equity | 0.44% |
+| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.43% |
+| CORONA Remedies Ltd. | Healthcare | Equity | 0.43% |
+| TVS Motor Company Ltd | Consumer Discretionary | Equity | 0.42% |
+| BSE Ltd | Financial | Equity | 0.40% |
+| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.37% |
+| The Ramco Cements Ltd | Materials | Equity | 0.35% |
+| Bharat Electronics Ltd | Industrials | Equity | 0.35% |
+| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.34% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 0.33% |
+| Escorts Kubota Ltd | Industrials | Equity | 0.33% |
+| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.30% |
+| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.29% |
+| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.28% |
+| JK Lakshmi Cement Ltd | Materials | Equity | 0.28% |
+| Nippon Life India Asset Management Ltd | Financial | Equity | 0.27% |
+| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.25% |
+| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.24% |
+| Swiggy Ltd. | Technology | Equity | 0.24% |
+| Neuland Laboratories Ltd | Healthcare | Equity | 0.17% |
 | GOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100 | Entities | GOI Securities | 0.11% |
+| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.11% |
 | 7.37% GOI CG 23-10-2028 | Entities | GOI Securities | 0.10% |
-| Nippon Life India Asset Management Ltd | Financial | Equity | 0.05% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.05% |
-| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.03% |
-| Bharat Electronics Ltd | Industrials | Equity | 0.02% |
-| Ramco Systems Ltd | Technology | Equity | 0.00% |
-| ABB India Ltd | Industrials | Equity | 0.00% |
+| Birlasoft Ltd | Technology | Equity | 0.09% |
+| ABB India Ltd | Industrials | Equity | 0.09% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.07% |
 
 See All### Minimum investments
 
@@ -109,7 +112,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.5% | +18.7% | +16.6% | +16.0% |
+| Fund returns | +18.1% | +18.9% | +16.7% | +16.1% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
 | Rank (Equity Flexi Cap) | 9 | 2 | 2 | -- |
 
@@ -149,11 +152,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Bank of India Flexi Cap Fund Direct Growth | +8.82% | +21.65% | 2,459.86 |
-|  | ITI Flexi Cap Fund Direct Growth | +8.22% | +20.30% | 1,314.38 |
-|  | HDFC Flexi Cap Direct Plan Growth | +1.76% | +17.50% | 1,06,495.63 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -3.30% | +14.52% | 18,796.71 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -2.65% | +14.42% | 1,41,446.73 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +9.64% | +22.22% | 2,615.05 |
+|  | ITI Flexi Cap Fund Direct Growth | +9.73% | +20.95% | 1,314.38 |
+|  | HDFC Flexi Cap Direct Plan Growth | +3.05% | +18.05% | 1,06,495.63 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -1.97% | +14.98% | 19,274.14 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | -2.60% | +14.53% | 1,43,388.43 |
 | Compare  |
 
 ### Fund management
@@ -164,7 +167,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Flexi Cap Direct Plan Growth
 
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 09 Jul 2026 is ₹2,218.45.
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 10 Jul 2026 is ₹2,240.66.
 The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ;#### Investment Objective
