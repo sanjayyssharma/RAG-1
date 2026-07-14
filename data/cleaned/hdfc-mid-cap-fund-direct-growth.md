@@ -1,15 +1,15 @@
 # HDFC Mid Cap Fund Direct Growth
 
-NAV: 10 Jul '26₹231.97Min. for SIP₹100Fund size (AUM)₹1,00,858.31 CrExpense ratio0.75%Rating5### Return calculator
+NAV: 13 Jul '26₹231.57Min. for SIP₹100Fund size (AUM)₹1,00,858.31 CrExpense ratio0.75%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹63,753 |  | +6.25% |
-| 3 years | ₹1,80,000 | ₹2,18,829 |  | +21.57% |
-| 5 years | ₹3,00,000 | ₹4,87,114 |  | +62.37% |
-| 10 years | ₹6,00,000 | ₹17,22,071 |  | +187.01% |
+| 1 year | ₹60,000 | ₹63,585 |  | +5.97% |
+| 3 years | ₹1,80,000 | ₹2,18,228 |  | +21.24% |
+| 5 years | ₹3,00,000 | ₹4,85,554 |  | +61.85% |
+| 10 years | ₹6,00,000 | ₹17,16,501 |  | +186.08% |
 
 ## Holdings (78)
 
@@ -112,7 +112,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +21.3% | +20.9% | +18.7% | +20.4% |
+| Fund returns | +20.9% | +20.6% | +18.6% | +20.4% |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
 | Rank (Equity Mid Cap) | 13 | 4 | 5 | -- |
 
@@ -148,11 +148,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | WhiteOak Capital Mid Cap Fund Direct Growth | +14.79% | +25.70% | 6,932.99 |
-|  | Edelweiss Mid Cap Direct Plan Growth | +7.84% | +24.91% | 17,748.32 |
-|  | Nippon India Growth Mid Cap Fund Direct Growth | +9.60% | +23.17% | 49,169.10 |
-|  | Sundaram Mid Cap Fund Direct Growth | +9.15% | +23.00% | 14,026.07 |
-|  | HDFC Mid Cap Fund Direct Growth | +7.09% | +21.25% | 1,00,858.31 |
+|  | WhiteOak Capital Mid Cap Fund Direct Growth | +15.94% | +25.18% | 6,932.99 |
+|  | Edelweiss Mid Cap Direct Plan Growth | +8.84% | +24.44% | 17,748.32 |
+|  | Nippon India Growth Mid Cap Fund Direct Growth | +10.20% | +22.83% | 49,169.10 |
+|  | Sundaram Mid Cap Fund Direct Growth | +9.76% | +22.61% | 14,026.07 |
+|  | HDFC Mid Cap Fund Direct Growth | +7.21% | +20.89% | 1,00,858.31 |
 | Compare  |
 
 ### Fund management
@@ -163,10 +163,10 @@ EducationMr. Setalvad is a B. Sc and MBA from University of North Carolina.Exper
 
 EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### About HDFC Mid Cap Fund Direct Growth
 
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 10 Jul 2026 is ₹231.97.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 13 Jul 2026 is ₹231.57.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 ;#### Investment Objective
 
 The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.Fund benchmarkNIFTY Midcap 150 Total Return IndexScheme Information Document(SID)### Fund house
 
-HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,34,237.77 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020Custodian--Registrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,44,244.21 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020Custodian--Registrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
