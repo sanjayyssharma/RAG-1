@@ -114,7 +114,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +17.6% | +18.6% | +16.4% | +16.1% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 8 | 2 | 2 | -- |
+| Rank (Equity Flexi Cap) | 8 | 2 | 3 | -- |
 
 ## Understand terms
 
@@ -155,7 +155,7 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 |  | Bank of India Flexi Cap Fund Direct Growth | +8.86% | +21.87% | 2,615.05 |
 |  | ITI Flexi Cap Fund Direct Growth | +9.35% | +20.10% | 1,412.22 |
 |  | HDFC Flexi Cap Direct Plan Growth | +3.37% | +17.59% | 1,06,495.63 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -1.49% | +14.46% | 1,43,388.43 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | -0.95% | +14.56% | 1,43,388.43 |
 |  | Franklin India Flexi Cap Fund Direct Growth | -1.58% | +14.25% | 19,274.14 |
 | Compare  |
 

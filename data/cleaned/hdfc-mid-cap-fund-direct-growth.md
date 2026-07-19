@@ -114,7 +114,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +20.1% | +20.2% | +18.4% | +20.3% |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
-| Rank (Equity Mid Cap) | 13 | 3 | 5 | -- |
+| Rank (Equity Mid Cap) | 14 | 3 | 5 | -- |
 
 ## Understand terms
 
