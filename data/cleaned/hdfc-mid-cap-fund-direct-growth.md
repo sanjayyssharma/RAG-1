@@ -1,15 +1,15 @@
 # HDFC Mid Cap Fund Direct Growth
 
-NAV: 21 Jul '26₹230.92Min. for SIP₹100Fund size (AUM)₹1,00,858.31 CrExpense ratio0.75%Rating5### Return calculator
+NAV: 22 Jul '26₹228.61Min. for SIP₹100Fund size (AUM)₹1,00,858.31 CrExpense ratio0.75%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹63,269 |  | +5.45% |
-| 3 years | ₹1,80,000 | ₹2,17,052 |  | +20.58% |
-| 5 years | ₹3,00,000 | ₹4,82,339 |  | +60.78% |
-| 10 years | ₹6,00,000 | ₹17,04,937 |  | +184.16% |
+| 1 year | ₹60,000 | ₹62,682 |  | +4.47% |
+| 3 years | ₹1,80,000 | ₹2,14,877 |  | +19.38% |
+| 5 years | ₹3,00,000 | ₹4,77,363 |  | +59.12% |
+| 10 years | ₹6,00,000 | ₹16,87,146 |  | +181.19% |
 
 ## Holdings (78)
 
@@ -112,9 +112,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +20.2% | +20.8% | +18.4% | +20.3% |
+| Fund returns | +19.8% | +20.2% | +18.2% | +20.2% |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
-| Rank (Equity Mid Cap) | 15 | 3 | 5 | -- |
+| Rank (Equity Mid Cap) | 14 | 3 | 5 | -- |
 
 ## Understand terms
 
@@ -148,11 +148,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | WhiteOak Capital Mid Cap Fund Direct Growth | +14.03% | +24.54% | 6,932.99 |
-|  | Edelweiss Mid Cap Direct Plan Growth | +7.79% | +24.10% | 17,748.32 |
-|  | Nippon India Growth Mid Cap Fund Direct Growth | +8.37% | +22.37% | 49,169.10 |
-|  | Sundaram Mid Cap Fund Direct Growth | +8.70% | +22.07% | 14,026.07 |
-|  | HDFC Mid Cap Fund Direct Growth | +5.83% | +20.21% | 1,00,858.31 |
+|  | WhiteOak Capital Mid Cap Fund Direct Growth | +12.90% | +24.05% | 6,932.99 |
+|  | Edelweiss Mid Cap Direct Plan Growth | +7.11% | +23.67% | 17,748.32 |
+|  | Nippon India Growth Mid Cap Fund Direct Growth | +7.37% | +21.90% | 49,169.10 |
+|  | Sundaram Mid Cap Fund Direct Growth | +8.67% | +21.85% | 14,026.07 |
+|  | HDFC Mid Cap Fund Direct Growth | +5.11% | +19.78% | 1,00,858.31 |
 | Compare  |
 
 ### Fund management
@@ -163,7 +163,7 @@ EducationMr. Setalvad is a B. Sc and MBA from University of North Carolina.Exper
 
 EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### About HDFC Mid Cap Fund Direct Growth
 
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 21 Jul 2026 is ₹230.92.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 22 Jul 2026 is ₹228.61.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 ;#### Investment Objective
 
