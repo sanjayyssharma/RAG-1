@@ -6,9 +6,9 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹61,349 |  | +2.25% |
-| 3 years | ₹1,80,000 | ₹2,09,486 |  | +16.38% |
-| 5 years | ₹3,00,000 | ₹4,49,187 |  | +49.73% |
+| 1 year | ₹60,000 | ₹61,374 |  | +2.29% |
+| 3 years | ₹1,80,000 | ₹2,09,573 |  | +16.43% |
+| 5 years | ₹3,00,000 | ₹4,49,294 |  | +49.76% |
 | 10 years | ₹6,00,000 | ₹14,74,791 |  | +145.80% |
 
 ## Holdings (33)
@@ -67,7 +67,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.2% | +19.8% | +15.2% | +15.0% |
+| Fund returns | +17.1% | +19.8% | +15.2% | +15.0% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | -- | -- |
 | Rank (Equity Flexi Cap) | 4 | 1 | 4 | -- |
 
@@ -107,7 +107,7 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 |  | Bank of India Flexi Cap Fund Direct Growth | +12.15% | +20.39% | 2,615.05 |
 |  | ITI Flexi Cap Fund Direct Growth | +11.16% | +18.87% | 1,412.22 |
 |  | HDFC Flexi Cap Direct Plan Growth | +5.29% | +17.04% | 1,06,495.63 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -0.89% | +14.03% | 1,43,388.43 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | -0.12% | +14.31% | 1,43,388.43 |
 |  | Franklin India Flexi Cap Fund Direct Growth | -0.43% | +13.19% | 19,274.14 |
 | Compare  |
 

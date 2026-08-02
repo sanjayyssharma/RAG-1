@@ -1,14 +1,14 @@
 
-HDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+19.73%3Y annualised-0.02% 1D1M6M1Y3Y5YAllNAV: 31 Jul '26₹233.49Min. for SIP₹100Fund size (AUM)₹1,00,858.31 CrExpense ratio0.75%Rating5### Return calculator
+HDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+19.53%3Y annualised+0.32% 1D1M6M1Y3Y5YAllNAV: 31 Jul '26₹233.49Min. for SIP₹100Fund size (AUM)₹1,00,858.31 CrExpense ratio0.75%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹63,543 |  | +5.91% |
-| 3 years | ₹1,80,000 | ₹2,18,050 |  | +21.14% |
-| 5 years | ₹3,00,000 | ₹4,83,902 |  | +61.30% |
-| 10 years | ₹6,00,000 | ₹17,11,040 |  | +185.17% |
+| 1 year | ₹60,000 | ₹63,699 |  | +6.17% |
+| 3 years | ₹1,80,000 | ₹2,18,647 |  | +21.47% |
+| 5 years | ₹3,00,000 | ₹4,85,276 |  | +61.76% |
+| 10 years | ₹6,00,000 | ₹17,14,694 |  | +185.78% |
 
 ## Holdings (78)
 
@@ -113,7 +113,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +19.7% | +20.4% | +18.1% | +20.4% |
+| Fund returns | +19.5% | +20.5% | +18.2% | +20.4% |
 | Category average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | -- |
 | Rank (Equity Mid Cap) | 13 | 3 | 5 | -- |
 

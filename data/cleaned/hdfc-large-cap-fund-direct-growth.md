@@ -6,10 +6,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹60,908 |  | +1.51% |
-| 3 years | ₹1,80,000 | ₹1,94,771 |  | +8.21% |
-| 5 years | ₹3,00,000 | ₹3,89,515 |  | +29.84% |
-| 10 years | ₹6,00,000 | ₹11,82,596 |  | +97.10% |
+| 1 year | ₹60,000 | ₹61,201 |  | +2.00% |
+| 3 years | ₹1,80,000 | ₹1,95,797 |  | +8.78% |
+| 5 years | ₹3,00,000 | ₹3,91,491 |  | +30.50% |
+| 10 years | ₹6,00,000 | ₹11,88,846 |  | +98.14% |
 
 ## Holdings (47)
 
@@ -81,9 +81,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +10.9% | +13.4% | +13.0% | +13.3% |
+| Fund returns | +10.9% | +13.5% | +13.0% | +13.3% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 42 | 14 | 12 | -- |
+| Rank (Equity Large Cap) | 43 | 15 | 12 | -- |
 
 ## Understand terms
 
