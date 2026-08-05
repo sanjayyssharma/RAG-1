@@ -1,15 +1,15 @@
 # HDFC Flexi Cap Direct Plan Growth
 
-NAV: 03 Aug '26₹2,305.46Min. for SIP₹100Fund size (AUM)₹1,06,495.63 CrExpense ratio0.74%Rating5### Return calculator
+NAV: 04 Aug '26₹2,295.52Min. for SIP₹100Fund size (AUM)₹1,06,495.63 CrExpense ratio0.74%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹62,716 |  | +4.53% |
-| 3 years | ₹1,80,000 | ₹2,12,960 |  | +18.31% |
-| 5 years | ₹3,00,000 | ₹4,54,021 |  | +51.34% |
-| 10 years | ₹6,00,000 | ₹15,30,733 |  | +155.12% |
+| 1 year | ₹60,000 | ₹62,434 |  | +4.06% |
+| 3 years | ₹1,80,000 | ₹2,11,993 |  | +17.77% |
+| 5 years | ₹3,00,000 | ₹4,51,974 |  | +50.66% |
+| 10 years | ₹6,00,000 | ₹15,23,420 |  | +153.90% |
 
 ## Holdings (77)
 
@@ -111,7 +111,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +18.3% | +18.7% | +16.8% | +16.3% |
+| Fund returns | +17.9% | +18.5% | +16.7% | +16.2% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
 | Rank (Equity Flexi Cap) | 8 | 2 | 2 | -- |
 
@@ -149,11 +149,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Bank of India Flexi Cap Fund Direct Growth | +15.36% | +21.55% | 2,615.05 |
-|  | ITI Flexi Cap Fund Direct Growth | +14.40% | +20.14% | 1,412.22 |
-|  | HDFC Flexi Cap Direct Plan Growth | +7.87% | +18.31% | 1,06,495.63 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -0.12% | +14.31% | 1,43,388.43 |
-|  | Franklin India Flexi Cap Fund Direct Growth | +2.37% | +14.30% | 19,274.14 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +14.22% | +21.32% | 2,615.05 |
+|  | ITI Flexi Cap Fund Direct Growth | +13.46% | +20.00% | 1,412.22 |
+|  | HDFC Flexi Cap Direct Plan Growth | +6.87% | +17.95% | 1,06,495.63 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | +1.84% | +15.18% | 1,43,388.43 |
+|  | Franklin India Flexi Cap Fund Direct Growth | +1.26% | +13.74% | 19,274.14 |
 | Compare  |
 
 ### Fund management
@@ -164,7 +164,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Flexi Cap Direct Plan Growth
 
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 03 Aug 2026 is ₹2,305.46.
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 04 Aug 2026 is ₹2,295.52.
 The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ;#### Investment Objective
