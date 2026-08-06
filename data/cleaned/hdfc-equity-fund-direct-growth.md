@@ -1,6 +1,6 @@
 # HDFC Flexi Cap Direct Plan Growth
 
-NAV: 04 Aug '26₹2,295.52Min. for SIP₹100Fund size (AUM)₹1,06,495.63 CrExpense ratio0.74%Rating5### Return calculator
+NAV: 05 Aug '26₹2,300.26Min. for SIP₹100Fund size (AUM)₹1,06,495.63 CrExpense ratio0.74%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
@@ -149,11 +149,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Bank of India Flexi Cap Fund Direct Growth | +14.22% | +21.32% | 2,615.05 |
-|  | ITI Flexi Cap Fund Direct Growth | +13.46% | +20.00% | 1,412.22 |
-|  | HDFC Flexi Cap Direct Plan Growth | +6.87% | +17.95% | 1,06,495.63 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | +1.84% | +15.18% | 1,43,388.43 |
-|  | Franklin India Flexi Cap Fund Direct Growth | +1.26% | +13.74% | 19,274.14 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +15.06% | +21.46% | 2,615.05 |
+|  | ITI Flexi Cap Fund Direct Growth | +14.29% | +20.19% | 1,412.22 |
+|  | HDFC Flexi Cap Direct Plan Growth | +7.17% | +18.01% | 1,06,495.63 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | +1.44% | +14.95% | 1,43,388.43 |
+|  | Franklin India Flexi Cap Fund Direct Growth | +1.84% | +13.77% | 19,274.14 |
 | Compare  |
 
 ### Fund management
@@ -164,7 +164,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Flexi Cap Direct Plan Growth
 
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 04 Aug 2026 is ₹2,295.52.
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 05 Aug 2026 is ₹2,300.26.
 The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ;#### Investment Objective
