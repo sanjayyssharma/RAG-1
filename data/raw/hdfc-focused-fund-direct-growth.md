@@ -1,14 +1,14 @@
 
-HDFC Focused Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+17.45%3Y annualised+0.52% 1D1M6M1Y3Y5YAllNAV: 20 Aug '26₹269.97Min. for SIP₹100Fund size (AUM)₹27,924.78 CrExpense ratio0.80%Rating5### Return calculator
+HDFC Focused Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+17.37%3Y annualised+0.02% 1D1M6M1Y3Y5YAllNAV: 21 Aug '26₹270.02Min. for SIP₹100Fund size (AUM)₹27,924.78 CrExpense ratio0.80%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹61,391 |  | +2.32% |
-| 3 years | ₹1,80,000 | ₹2,07,972 |  | +15.54% |
-| 5 years | ₹3,00,000 | ₹4,45,857 |  | +48.62% |
-| 10 years | ₹6,00,000 | ₹14,72,177 |  | +145.36% |
+| 1 year | ₹60,000 | ₹61,396 |  | +2.33% |
+| 3 years | ₹1,80,000 | ₹2,07,962 |  | +15.53% |
+| 5 years | ₹3,00,000 | ₹4,45,769 |  | +48.59% |
+| 10 years | ₹6,00,000 | ₹14,71,851 |  | +145.31% |
 
 ## Holdings (33)
 
@@ -107,11 +107,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Bank of India Flexi Cap Fund Direct Growth | +15.27% | +22.20% | 2,786.40 |
-|  | ITI Flexi Cap Fund Direct Growth | +14.49% | +20.45% | 1,467.30 |
-|  | HDFC Flexi Cap Direct Plan Growth | +4.29% | +17.80% | 1,10,736.41 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -2.18% | +14.56% | 1,48,429.00 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -0.53% | +13.65% | 19,509.44 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +14.87% | +22.02% | 2,786.40 |
+|  | ITI Flexi Cap Fund Direct Growth | +14.65% | +20.37% | 1,467.30 |
+|  | HDFC Flexi Cap Direct Plan Growth | +4.19% | +17.69% | 1,10,736.41 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | -1.69% | +14.69% | 1,48,429.00 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -0.70% | +13.49% | 19,509.44 |
 | Compare  |
 
 ### Fund management
@@ -122,7 +122,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Focused Fund Direct Growth
 
-HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 20 Aug 2026 is ₹269.97.
+HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 21 Aug 2026 is ₹270.02.
 The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;#### Investment Objective
 
