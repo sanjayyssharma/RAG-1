@@ -1,97 +1,103 @@
 # HDFC Flexi Cap Direct Plan Growth
 
-NAV: 25 Aug '26₹2,297.87Min. for SIP₹100Fund size (AUM)₹1,10,736.41 CrExpense ratio0.77%Rating5### Return calculator
+NAV: 26 Aug '26₹2,301.23Min. for SIP₹100Fund size (AUM)₹1,10,736.41 CrExpense ratio0.77%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹62,218 |  | +3.70% |
-| 3 years | ₹1,80,000 | ₹2,10,927 |  | +17.18% |
-| 5 years | ₹3,00,000 | ₹4,48,415 |  | +49.47% |
-| 10 years | ₹6,00,000 | ₹15,10,464 |  | +151.74% |
+| 1 year | ₹60,000 | ₹62,286 |  | +3.81% |
+| 3 years | ₹1,80,000 | ₹2,11,165 |  | +17.31% |
+| 5 years | ₹3,00,000 | ₹4,48,872 |  | +49.62% |
+| 10 years | ₹6,00,000 | ₹15,11,979 |  | +152.00% |
 
-## Holdings (77)
+## Holdings (83)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 9.18% |
-| Axis Bank Ltd | Financial | Equity | 6.84% |
-| HDFC Bank Ltd | Financial | Equity | 6.77% |
-| State Bank of India | Financial | Equity | 4.30% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 3.47% |
-| Larsen & Toubro Ltd | Industrials | Equity | 3.45% |
-| Interglobe Aviation Ltd | Industrials | Equity | 3.26% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 3.26% |
-| Repo | Unspecified | Repo | 3.18% |
-| Zomato Ltd | Technology | Equity | 3.05% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 2.99% |
-| Bharti Airtel Ltd | Technology | Equity | 2.87% |
-| Cipla Ltd | Healthcare | Equity | 2.80% |
-| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.39% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 2.32% |
-| HCL Technologies Ltd | Technology | Equity | 2.14% |
-| Reliance Industries Ltd | Energy & Utilities | Equity | 1.97% |
-| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.69% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.61% |
-| Max Healthcare Institute Ltd | Healthcare | Equity | 1.56% |
-| JSW Steel Ltd | Materials | Equity | 1.53% |
-| Piramal Pharma Ltd | Healthcare | Equity | 1.42% |
-| Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.30% |
-| PB Fintech Ltd | Financial | Equity | 1.25% |
-| Bosch Ltd | Consumer Discretionary | Equity | 1.14% |
-| Tata Steel Ltd | Materials | Equity | 1.12% |
-| Divi's Laboratories Ltd | Healthcare | Equity | 1.11% |
-| Persistent Systems Ltd | Technology | Equity | 1.10% |
-| Lupin Ltd | Healthcare | Equity | 0.84% |
-| Infosys Ltd | Technology | Equity | 0.82% |
-| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 0.80% |
-| Britannia Industries Ltd | Consumer Staples | Equity | 0.73% |
-| United Spirits Ltd | Consumer Staples | Equity | 0.73% |
-| Aster DM Healthcare Ltd | Healthcare | Equity | 0.66% |
-| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 0.65% |
-| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 0.65% |
-| Varroc Engineering Ltd | Consumer Discretionary | Equity | 0.64% |
-| Anthem Biosciences Ltd. | Healthcare | Equity | 0.60% |
-| Kalpataru Power Transmission Ltd | Industrials | Equity | 0.59% |
+| ICICI Bank Ltd | Financial | Equity | 9.21% |
+| HDFC Bank Ltd | Financial | Equity | 6.11% |
+| Axis Bank Ltd | Financial | Equity | 6.01% |
+| State Bank of India | Financial | Equity | 4.14% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.56% |
+| Zomato Ltd | Technology | Equity | 3.36% |
+| Larsen & Toubro Ltd | Industrials | Equity | 3.16% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 3.12% |
+| Repo | Unspecified | Repo | 3.10% |
+| Interglobe Aviation Ltd | Industrials | Equity | 3.02% |
+| Bharti Airtel Ltd | Technology | Equity | 2.94% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 2.90% |
+| Cipla Ltd | Healthcare | Equity | 2.65% |
+| HCL Technologies Ltd | Technology | Equity | 2.58% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 2.47% |
+| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.26% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.77% |
+| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.66% |
+| Reliance Industries Ltd | Energy & Utilities | Equity | 1.56% |
+| Max Healthcare Institute Ltd | Healthcare | Equity | 1.46% |
+| JSW Steel Ltd | Materials | Equity | 1.44% |
+| Piramal Pharma Ltd | Healthcare | Equity | 1.38% |
+| Divi's Laboratories Ltd | Healthcare | Equity | 1.38% |
+| Persistent Systems Ltd | Technology | Equity | 1.35% |
+| PB Fintech Ltd | Financial | Equity | 1.33% |
+| Bosch Ltd | Consumer Discretionary | Equity | 1.13% |
+| Tata Steel Ltd | Materials | Equity | 1.09% |
+| Lupin Ltd | Healthcare | Equity | 0.96% |
+| TVS Motor Company Ltd | Consumer Discretionary | Equity | 0.79% |
+| United Spirits Ltd | Consumer Staples | Equity | 0.79% |
+| Infosys Ltd | Technology | Equity | 0.76% |
+| Britannia Industries Ltd | Consumer Staples | Equity | 0.74% |
+| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 0.73% |
+| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 0.72% |
+| Varroc Engineering Ltd | Consumer Discretionary | Equity | 0.72% |
+| Aster DM Healthcare Ltd | Healthcare | Equity | 0.67% |
+| Anthem Biosciences Ltd. | Healthcare | Equity | 0.61% |
+| Bharat Electronics Ltd | Industrials | Equity | 0.60% |
 | Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 0.59% |
-| ACME Solar Holdings Ltd. | Energy & Utilities | Equity | 0.58% |
-| JSW Infrastructure Ltd | Industrials | Equity | 0.56% |
-| Havells India Ltd | Consumer Discretionary | Equity | 0.53% |
-| Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.53% |
+| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 0.57% |
+| Havells India Ltd | Consumer Discretionary | Equity | 0.56% |
+| Adani Enterprises Ltd | Materials | Equity | 0.55% |
+| NUVOCO Vistas Corp Ltd | Materials | Equity | 0.55% |
+| Bajaj Auto Ltd | Consumer Discretionary | Equity | 0.55% |
+| Kalpataru Power Transmission Ltd | Industrials | Equity | 0.53% |
+| ACME Solar Holdings Ltd. | Energy & Utilities | Equity | 0.53% |
+| JSW Infrastructure Ltd | Industrials | Equity | 0.52% |
+| BSE Ltd | Financial | Equity | 0.52% |
+| Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.51% |
 | Craftsman Automation Ltd | Consumer Discretionary | Equity | 0.50% |
-| NUVOCO Vistas Corp Ltd | Materials | Equity | 0.50% |
-| Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.49% |
+| Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 0.50% |
 | Prestige Estates Projects Ltd | Real Estate | Equity | 0.49% |
-| Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 0.48% |
-| Bank Of Baroda | Financial | Equity | 0.45% |
-| Cyient Ltd | Technology | Equity | 0.44% |
-| Ashok Leyland Ltd | Industrials | Equity | 0.44% |
-| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.43% |
-| CORONA Remedies Ltd. | Healthcare | Equity | 0.43% |
-| TVS Motor Company Ltd | Consumer Discretionary | Equity | 0.42% |
-| BSE Ltd | Financial | Equity | 0.40% |
-| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.37% |
-| The Ramco Cements Ltd | Materials | Equity | 0.35% |
-| Bharat Electronics Ltd | Industrials | Equity | 0.35% |
-| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.34% |
-| Metropolis Healthcare Ltd | Healthcare | Equity | 0.33% |
+| Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.49% |
+| Ashok Leyland Ltd | Industrials | Equity | 0.45% |
+| CORONA Remedies Ltd. | Healthcare | Equity | 0.44% |
+| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.41% |
+| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.37% |
+| Cyient Ltd | Technology | Equity | 0.36% |
+| Bank Of Baroda | Financial | Equity | 0.35% |
+| SBI Funds Management Ltd | Financial | Equity | 0.35% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 0.34% |
+| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.34% |
+| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.34% |
 | Escorts Kubota Ltd | Industrials | Equity | 0.33% |
-| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.30% |
-| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.29% |
-| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.28% |
-| JK Lakshmi Cement Ltd | Materials | Equity | 0.28% |
-| Nippon Life India Asset Management Ltd | Financial | Equity | 0.27% |
-| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.25% |
-| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.24% |
-| Swiggy Ltd. | Technology | Equity | 0.24% |
-| Neuland Laboratories Ltd | Healthcare | Equity | 0.17% |
-| GOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100 | Entities | GOI Securities | 0.11% |
-| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.11% |
-| 7.37% GOI CG 23-10-2028 | Entities | GOI Securities | 0.10% |
-| Birlasoft Ltd | Technology | Equity | 0.09% |
-| ABB India Ltd | Industrials | Equity | 0.09% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.07% |
+| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.33% |
+| The Ramco Cements Ltd | Materials | Equity | 0.33% |
+| Nippon Life India Asset Management Ltd | Financial | Equity | 0.33% |
+| Biocon Ltd | Healthcare | Equity | 0.28% |
+| Swiggy Ltd. | Technology | Equity | 0.28% |
+| Neuland Laboratories Ltd | Healthcare | Equity | 0.27% |
+| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.27% |
+| JK Lakshmi Cement Ltd | Materials | Equity | 0.25% |
+| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.25% |
+| Diamond Power Infrastructure Ltd | Industrials | Equity | 0.20% |
+| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.20% |
+| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.20% |
+| Ather Energy Ltd. | Consumer Discretionary | Equity | 0.18% |
+| ABB India Ltd | Industrials | Equity | 0.12% |
+| GOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100 | Entities | GOI Securities | 0.10% |
+| 7.37% GOI CG 23-10-2028 | Entities | GOI Securities | 0.09% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.08% |
+| Jupiter Life Line Hospitals Ltd. | Healthcare | Equity | 0.03% |
+| Zomato Ltd | Technology | Futures | -0.00% |
 
 See All### Minimum investments
 
@@ -111,7 +117,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.8% | +19.1% | +16.4% | +16.2% |
+| Fund returns | +17.8% | +19.2% | +16.5% | +16.2% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
 | Rank (Equity Flexi Cap) | 11 | 2 | 2 | -- |
 
@@ -149,22 +155,22 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Bank of India Flexi Cap Fund Direct Growth | +14.63% | +22.19% | 2,786.40 |
-|  | ITI Flexi Cap Fund Direct Growth | +14.62% | +20.09% | 1,467.30 |
-|  | HDFC Flexi Cap Direct Plan Growth | +4.81% | +17.77% | 1,10,736.41 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -1.26% | +14.40% | 1,48,429.00 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -0.19% | +13.54% | 19,509.44 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +16.68% | +22.20% | 2,786.40 |
+|  | ITI Flexi Cap Fund Direct Growth | +16.36% | +20.15% | 1,467.30 |
+|  | HDFC Flexi Cap Direct Plan Growth | +5.84% | +17.81% | 1,10,736.41 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | -0.59% | +14.56% | 1,48,429.00 |
+|  | Franklin India Flexi Cap Fund Direct Growth | +0.92% | +13.44% | 19,509.44 |
 | Compare  |
 
 ### Fund management
 
 ### DMDhruv MuchhalJun 2023 - PresentView details
 
-EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### AGAmit GanatraFeb 2026 - PresentView details
+EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Ultra Short to Short Term Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Interest Rates Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Term Fund Direct Plan GrowthHDFC Medium Term Fund Direct GrowthHDFC Medium to Long Term Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Conservative Hybrid Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Aggressive Hybrid Fund Direct Plan GrowthHDFC Short Term Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large & Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Fund Equity Plan Direct GrowthHDFC Retirement Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Term Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### AGAmit GanatraFeb 2026 - PresentView details
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Flexi Cap Direct Plan Growth
 
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 25 Aug 2026 is ₹2,297.87.
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 26 Aug 2026 is ₹2,301.23.
 The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ;#### Investment Objective

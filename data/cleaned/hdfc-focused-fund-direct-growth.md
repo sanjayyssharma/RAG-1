@@ -1,53 +1,53 @@
 # HDFC Focused Fund Direct Growth
 
-NAV: 25 Aug '26₹271.29Min. for SIP₹100Fund size (AUM)₹27,924.78 CrExpense ratio0.80%Rating5### Return calculator
+NAV: 26 Aug '26₹271.74Min. for SIP₹100Fund size (AUM)₹27,924.78 CrExpense ratio0.80%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹61,620 |  | +2.70% |
-| 3 years | ₹1,80,000 | ₹2,08,689 |  | +15.94% |
-| 5 years | ₹3,00,000 | ₹4,47,093 |  | +49.03% |
-| 10 years | ₹6,00,000 | ₹14,76,143 |  | +146.02% |
+| 1 year | ₹60,000 | ₹61,700 |  | +2.83% |
+| 3 years | ₹1,80,000 | ₹2,08,961 |  | +16.09% |
+| 5 years | ₹3,00,000 | ₹4,47,623 |  | +49.21% |
+| 10 years | ₹6,00,000 | ₹14,77,884 |  | +146.31% |
 
 ## Holdings (33)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 9.17% |
-| HDFC Bank Ltd | Financial | Equity | 8.34% |
-| Axis Bank Ltd | Financial | Equity | 7.39% |
-| Repo | Unspecified | Repo | 7.32% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 5.43% |
-| State Bank of India | Financial | Equity | 5.31% |
-| Zomato Ltd | Technology | Equity | 4.19% |
-| Interglobe Aviation Ltd | Industrials | Equity | 4.15% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 3.80% |
-| Cipla Ltd | Healthcare | Equity | 3.73% |
-| HCL Technologies Ltd | Technology | Equity | 3.34% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 3.33% |
-| Bharti Airtel Ltd | Technology | Equity | 3.28% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 3.10% |
-| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.83% |
-| Havells India Ltd | Consumer Discretionary | Equity | 2.27% |
-| Tata Steel Ltd | Materials | Equity | 2.20% |
-| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 2.11% |
-| Bosch Ltd | Consumer Discretionary | Equity | 2.07% |
-| Karur Vysya Bank Ltd | Financial | Equity | 2.06% |
+| ICICI Bank Ltd | Financial | Equity | 9.36% |
+| HDFC Bank Ltd | Financial | Equity | 7.64% |
+| Axis Bank Ltd | Financial | Equity | 6.60% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 5.28% |
+| State Bank of India | Financial | Equity | 5.20% |
+| Zomato Ltd | Technology | Equity | 4.68% |
+| Repo | Unspecified | Repo | 4.45% |
+| HCL Technologies Ltd | Technology | Equity | 4.10% |
+| Interglobe Aviation Ltd | Industrials | Equity | 3.90% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 3.75% |
+| Sun Pharmaceutical Industries Ltd | Healthcare | Equity | 3.70% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.47% |
+| Bharti Airtel Ltd | Technology | Equity | 3.42% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 3.35% |
+| Havells India Ltd | Consumer Discretionary | Equity | 2.74% |
+| Cipla Ltd | Healthcare | Equity | 2.69% |
+| Karur Vysya Bank Ltd | Financial | Equity | 2.33% |
+| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 2.21% |
+| Tata Steel Ltd | Materials | Equity | 2.17% |
+| Bosch Ltd | Consumer Discretionary | Equity | 2.08% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.99% |
+| Adani Green Energy Ltd | Energy & Utilities | Equity | 1.96% |
 | Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.79% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.78% |
-| JSW Infrastructure Ltd | Industrials | Equity | 1.70% |
-| Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.65% |
-| Escorts Kubota Ltd | Industrials | Equity | 1.45% |
-| Amber Enterprises India Ltd | Consumer Discretionary | Equity | 1.42% |
-| Metropolis Healthcare Ltd | Healthcare | Equity | 1.35% |
-| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 1.19% |
-| CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.79% |
-| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.65% |
-| Piramal Pharma Ltd | Healthcare | Equity | 0.53% |
-| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.19% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.09% |
+| Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.61% |
+| JSW Infrastructure Ltd | Industrials | Equity | 1.61% |
+| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 1.56% |
+| Escorts Kubota Ltd | Industrials | Equity | 1.49% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 1.42% |
+| Amber Enterprises India Ltd | Consumer Discretionary | Equity | 1.37% |
+| CG Power & Industrial Solutions Ltd | Industrials | Equity | 1.10% |
+| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.53% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.27% |
+| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.18% |
 
 See All### Minimum investments
 
@@ -67,7 +67,7 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +17.5% | +19.9% | +15.2% | +15.0% |
+| Fund returns | +17.6% | +20.0% | +15.3% | +15.0% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | -- | -- |
 | Rank (Equity Flexi Cap) | 4 | 1 | 3 | -- |
 
@@ -104,22 +104,22 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Bank of India Flexi Cap Fund Direct Growth | +14.63% | +22.19% | 2,786.40 |
-|  | ITI Flexi Cap Fund Direct Growth | +14.62% | +20.09% | 1,467.30 |
-|  | HDFC Flexi Cap Direct Plan Growth | +4.81% | +17.77% | 1,10,736.41 |
-|  | Parag Parikh Flexi Cap Fund Direct Growth | -1.26% | +14.40% | 1,48,429.00 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -0.19% | +13.54% | 19,509.44 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +16.68% | +22.20% | 2,786.40 |
+|  | ITI Flexi Cap Fund Direct Growth | +16.36% | +20.15% | 1,467.30 |
+|  | HDFC Flexi Cap Direct Plan Growth | +5.84% | +17.81% | 1,10,736.41 |
+|  | Parag Parikh Flexi Cap Fund Direct Growth | -0.59% | +14.56% | 1,48,429.00 |
+|  | Franklin India Flexi Cap Fund Direct Growth | +0.92% | +13.44% | 19,509.44 |
 | Compare  |
 
 ### Fund management
 
 ### DMDhruv MuchhalJun 2023 - PresentView details
 
-EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### AGAmit GanatraFeb 2026 - PresentView details
+EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Ultra Short to Short Term Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Interest Rates Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Term Fund Direct Plan GrowthHDFC Medium Term Fund Direct GrowthHDFC Medium to Long Term Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Conservative Hybrid Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Aggressive Hybrid Fund Direct Plan GrowthHDFC Short Term Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large & Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Fund Equity Plan Direct GrowthHDFC Retirement Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Term Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### AGAmit GanatraFeb 2026 - PresentView details
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Focused Fund Direct Growth
 
-HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 25 Aug 2026 is ₹271.29.
+HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 26 Aug 2026 is ₹271.74.
 The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;#### Investment Objective
 
