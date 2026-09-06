@@ -85,7 +85,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +10.4% | +11.7% | +12.5% | +13.1% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 42 | 14 | 12 | -- |
+| Rank (Equity Large Cap) | 43 | 15 | 12 | -- |
 
 ## Understand terms
 
