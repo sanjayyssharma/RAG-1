@@ -1,15 +1,15 @@
 # HDFC Large Cap Fund Direct Growth
 
-NAV: 10 Sep '26₹1,210.98Min. for SIP₹100Fund size (AUM)₹39,933.37 CrExpense ratio1.03%Rating4### Return calculator
+NAV: 11 Sep '26₹1,208.62Min. for SIP₹100Fund size (AUM)₹39,933.37 CrExpense ratio1.03%Rating4### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹59,317 |  | -1.14% |
-| 3 years | ₹1,80,000 | ₹1,87,120 |  | +3.96% |
-| 5 years | ₹3,00,000 | ₹3,74,166 |  | +24.72% |
-| 10 years | ₹6,00,000 | ₹11,38,426 |  | +89.74% |
+| 1 year | ₹60,000 | ₹59,212 |  | -1.31% |
+| 3 years | ₹1,80,000 | ₹1,86,749 |  | +3.75% |
+| 5 years | ₹3,00,000 | ₹3,73,357 |  | +24.45% |
+| 10 years | ₹6,00,000 | ₹11,35,857 |  | +89.31% |
 
 ## Holdings (48)
 
@@ -82,9 +82,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +9.0% | +11.3% | +12.2% | +12.9% |
+| Fund returns | +8.7% | +11.3% | +12.2% | +12.9% |
 | Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | -- |
-| Rank (Equity Large Cap) | 44 | 15 | 13 | -- |
+| Rank (Equity Large Cap) | 44 | 15 | 14 | -- |
 
 ## Understand terms
 
@@ -119,11 +119,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Invesco India Large Cap Fund Direct Growth | +3.59% | +13.79% | 2,023.36 |
-|  | Bandhan Large Cap Fund Direct Growth | +1.75% | +12.74% | 2,144.56 |
-|  | ICICI Prudential Large Cap Fund Direct Growth | -3.90% | +10.55% | 80,206.20 |
-|  | Nippon India Large Cap Fund Direct Growth | -3.66% | +10.45% | 54,133.66 |
-|  | HDFC Large Cap Fund Direct Growth | -1.59% | +9.00% | 39,933.37 |
+|  | Invesco India Large Cap Fund Direct Growth | +3.50% | +13.50% | 2,020.76 |
+|  | Bandhan Large Cap Fund Direct Growth | +1.31% | +12.38% | 2,179.99 |
+|  | ICICI Prudential Large Cap Fund Direct Growth | -4.40% | +10.17% | 80,206.20 |
+|  | Nippon India Large Cap Fund Direct Growth | -3.86% | +10.11% | 54,133.66 |
+|  | HDFC Large Cap Fund Direct Growth | -1.84% | +8.69% | 39,933.37 |
 | Compare  |
 
 ### Fund management
@@ -134,10 +134,10 @@ EducationMr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering g
 
 EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Ultra Short to Short Term Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Interest Rates Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Term Fund Direct Plan GrowthHDFC Medium Term Fund Direct GrowthHDFC Medium to Long Term Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Conservative Hybrid Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Aggressive Hybrid Fund Direct Plan GrowthHDFC Short Term Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large & Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Term Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth### About HDFC Large Cap Fund Direct Growth
 
-HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 10 Sep 2026 is ₹1,210.98.
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 11 Sep 2026 is ₹1,208.62.
 The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;#### Investment Objective
 
 The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.Fund benchmarkNIFTY 100 Total Return IndexScheme Information Document(SID)### Fund house
 
-HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,67,910.31 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020CustodianHDFC BankRegistrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,86,236.84 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020CustodianHDFC BankRegistrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
