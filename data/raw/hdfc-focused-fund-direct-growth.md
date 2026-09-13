@@ -16,39 +16,39 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 9.36% |
-| HDFC Bank Ltd | Financial | Equity | 7.64% |
-| Axis Bank Ltd | Financial | Equity | 6.60% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 5.28% |
-| State Bank of India | Financial | Equity | 5.20% |
-| Zomato Ltd | Technology | Equity | 4.68% |
-| Repo | Unspecified | Repo | 4.45% |
-| HCL Technologies Ltd | Technology | Equity | 4.10% |
-| Interglobe Aviation Ltd | Industrials | Equity | 3.90% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 3.75% |
-| Sun Pharmaceutical Industries Ltd | Healthcare | Equity | 3.70% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 3.47% |
-| Bharti Airtel Ltd | Technology | Equity | 3.42% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 3.35% |
-| Havells India Ltd | Consumer Discretionary | Equity | 2.74% |
-| Cipla Ltd | Healthcare | Equity | 2.69% |
-| Karur Vysya Bank Ltd | Financial | Equity | 2.33% |
-| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 2.21% |
-| Tata Steel Ltd | Materials | Equity | 2.17% |
-| Bosch Ltd | Consumer Discretionary | Equity | 2.08% |
+| ICICI Bank Ltd | Financial | Equity | 9.49% |
+| HDFC Bank Ltd | Financial | Equity | 7.17% |
+| Axis Bank Ltd | Financial | Equity | 6.91% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 5.74% |
+| State Bank of India | Financial | Equity | 5.31% |
+| Zomato Ltd | Technology | Equity | 4.80% |
+| Sun Pharmaceutical Industries Ltd | Healthcare | Equity | 4.19% |
+| HCL Technologies Ltd | Technology | Equity | 3.96% |
+| Interglobe Aviation Ltd | Industrials | Equity | 3.91% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 3.53% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 3.37% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.18% |
+| Bharti Airtel Ltd | Technology | Equity | 3.11% |
+| Aster DM Healthcare Ltd | Healthcare | Equity | 2.98% |
+| Havells India Ltd | Consumer Discretionary | Equity | 2.68% |
+| Bosch Ltd | Consumer Discretionary | Equity | 2.51% |
+| Cipla Ltd | Healthcare | Equity | 2.37% |
+| Karur Vysya Bank Ltd | Financial | Equity | 2.34% |
+| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 2.29% |
+| Repo | Unspecified | Repo | 2.27% |
+| Adani Green Energy Ltd | Energy & Utilities | Equity | 2.11% |
+| Tata Steel Ltd | Materials | Equity | 2.09% |
 | Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.99% |
-| Adani Green Energy Ltd | Energy & Utilities | Equity | 1.96% |
-| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.79% |
-| Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.61% |
-| JSW Infrastructure Ltd | Industrials | Equity | 1.61% |
-| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 1.56% |
-| Escorts Kubota Ltd | Industrials | Equity | 1.49% |
-| Metropolis Healthcare Ltd | Healthcare | Equity | 1.42% |
-| Amber Enterprises India Ltd | Consumer Discretionary | Equity | 1.37% |
-| CG Power & Industrial Solutions Ltd | Industrials | Equity | 1.10% |
-| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.53% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.27% |
+| Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.78% |
+| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.78% |
+| JSW Infrastructure Ltd | Industrials | Equity | 1.74% |
+| Escorts Kubota Ltd | Industrials | Equity | 1.43% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 1.40% |
+| Amber Enterprises India Ltd | Consumer Discretionary | Equity | 1.39% |
+| CG Power & Industrial Solutions Ltd | Industrials | Equity | 1.15% |
+| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.78% |
 | GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.18% |
+| Net Current Assets | Unspecified | Net Current Assets | 0.07% |
 
 See All### Minimum investments
 
@@ -70,7 +70,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +14.8% | +18.3% | +14.5% | +14.7% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | -- | -- |
-| Rank (Equity Flexi Cap) | 5 | 1 | 3 | -- |
+| Rank (Equity Flexi Cap) | 5 | 1 | 4 | -- |
 
 ## Understand terms
 

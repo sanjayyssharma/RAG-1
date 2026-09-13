@@ -11,93 +11,96 @@ Monthly SIPOne timeMonthly investment₹5,000
 | 5 years | ₹3,00,000 | ₹4,33,660 |  | +44.55% |
 | 10 years | ₹6,00,000 | ₹14,65,706 |  | +144.28% |
 
-## Holdings (83)
+## Holdings (86)
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 9.21% |
-| HDFC Bank Ltd | Financial | Equity | 6.11% |
-| Axis Bank Ltd | Financial | Equity | 6.01% |
-| State Bank of India | Financial | Equity | 4.14% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 3.56% |
-| Zomato Ltd | Technology | Equity | 3.36% |
+| ICICI Bank Ltd | Financial | Equity | 9.19% |
+| Axis Bank Ltd | Financial | Equity | 6.19% |
+| HDFC Bank Ltd | Financial | Equity | 5.71% |
+| State Bank of India | Financial | Equity | 4.16% |
+| Zomato Ltd | Technology | Equity | 3.39% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 3.27% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.19% |
 | Larsen & Toubro Ltd | Industrials | Equity | 3.16% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 3.12% |
-| Repo | Unspecified | Repo | 3.10% |
-| Interglobe Aviation Ltd | Industrials | Equity | 3.02% |
-| Bharti Airtel Ltd | Technology | Equity | 2.94% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 2.90% |
-| Cipla Ltd | Healthcare | Equity | 2.65% |
-| HCL Technologies Ltd | Technology | Equity | 2.58% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 2.47% |
-| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.26% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.77% |
-| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.66% |
-| Reliance Industries Ltd | Energy & Utilities | Equity | 1.56% |
-| Max Healthcare Institute Ltd | Healthcare | Equity | 1.46% |
-| JSW Steel Ltd | Materials | Equity | 1.44% |
-| Piramal Pharma Ltd | Healthcare | Equity | 1.38% |
-| Divi's Laboratories Ltd | Healthcare | Equity | 1.38% |
-| Persistent Systems Ltd | Technology | Equity | 1.35% |
-| PB Fintech Ltd | Financial | Equity | 1.33% |
-| Bosch Ltd | Consumer Discretionary | Equity | 1.13% |
-| Tata Steel Ltd | Materials | Equity | 1.09% |
-| Lupin Ltd | Healthcare | Equity | 0.96% |
-| TVS Motor Company Ltd | Consumer Discretionary | Equity | 0.79% |
-| United Spirits Ltd | Consumer Staples | Equity | 0.79% |
-| Infosys Ltd | Technology | Equity | 0.76% |
-| Britannia Industries Ltd | Consumer Staples | Equity | 0.74% |
-| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 0.73% |
-| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 0.72% |
-| Varroc Engineering Ltd | Consumer Discretionary | Equity | 0.72% |
-| Aster DM Healthcare Ltd | Healthcare | Equity | 0.67% |
+| Interglobe Aviation Ltd | Industrials | Equity | 2.98% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 2.74% |
+| Bharti Airtel Ltd | Technology | Equity | 2.58% |
+| Repo | Unspecified | Repo | 2.55% |
+| HCL Technologies Ltd | Technology | Equity | 2.48% |
+| Cipla Ltd | Healthcare | Equity | 2.47% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 2.44% |
+| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 2.04% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.75% |
+| Nexus Select Trust | Industrials | Real Estate Investment Trusts | 1.62% |
+| Divi's Laboratories Ltd | Healthcare | Equity | 1.58% |
+| PB Fintech Ltd | Financial | Equity | 1.52% |
+| Max Healthcare Institute Ltd | Healthcare | Equity | 1.49% |
+| JSW Steel Ltd | Materials | Equity | 1.45% |
+| Piramal Pharma Ltd | Healthcare | Equity | 1.44% |
+| Reliance Industries Ltd | Energy & Utilities | Equity | 1.44% |
+| Bosch Ltd | Consumer Discretionary | Equity | 1.34% |
+| Persistent Systems Ltd | Technology | Equity | 1.34% |
+| Lupin Ltd | Healthcare | Equity | 0.94% |
+| Varroc Engineering Ltd | Consumer Discretionary | Equity | 0.88% |
+| Tata Steel Ltd | Materials | Equity | 0.88% |
+| Ultratech Cement Ltd | Materials | Equity | 0.87% |
+| TVS Motor Company Ltd | Consumer Discretionary | Equity | 0.85% |
+| Aster DM Healthcare Ltd | Healthcare | Equity | 0.81% |
+| United Spirits Ltd | Consumer Staples | Equity | 0.75% |
+| FSN E-Commerce Ventures Ltd | Consumer Discretionary | Equity | 0.75% |
+| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 0.71% |
+| Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 0.70% |
+| Britannia Industries Ltd | Consumer Staples | Equity | 0.70% |
+| Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 0.68% |
+| Bharat Electronics Ltd | Industrials | Equity | 0.62% |
 | Anthem Biosciences Ltd. | Healthcare | Equity | 0.61% |
-| Bharat Electronics Ltd | Industrials | Equity | 0.60% |
-| Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 0.59% |
+| ACME Solar Holdings Ltd. | Energy & Utilities | Equity | 0.57% |
 | Vishal Mega Mart Ltd. | Consumer Staples | Equity | 0.57% |
-| Havells India Ltd | Consumer Discretionary | Equity | 0.56% |
-| Adani Enterprises Ltd | Materials | Equity | 0.55% |
-| NUVOCO Vistas Corp Ltd | Materials | Equity | 0.55% |
-| Bajaj Auto Ltd | Consumer Discretionary | Equity | 0.55% |
-| Kalpataru Power Transmission Ltd | Industrials | Equity | 0.53% |
-| ACME Solar Holdings Ltd. | Energy & Utilities | Equity | 0.53% |
-| JSW Infrastructure Ltd | Industrials | Equity | 0.52% |
-| BSE Ltd | Financial | Equity | 0.52% |
-| Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.51% |
-| Craftsman Automation Ltd | Consumer Discretionary | Equity | 0.50% |
-| Lenskart Solutions Ltd. | Consumer Discretionary | Equity | 0.50% |
-| Prestige Estates Projects Ltd | Real Estate | Equity | 0.49% |
-| Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.49% |
-| Ashok Leyland Ltd | Industrials | Equity | 0.45% |
-| CORONA Remedies Ltd. | Healthcare | Equity | 0.44% |
-| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.41% |
-| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.37% |
-| Cyient Ltd | Technology | Equity | 0.36% |
-| Bank Of Baroda | Financial | Equity | 0.35% |
-| SBI Funds Management Ltd | Financial | Equity | 0.35% |
-| Metropolis Healthcare Ltd | Healthcare | Equity | 0.34% |
-| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.34% |
-| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.34% |
-| Escorts Kubota Ltd | Industrials | Equity | 0.33% |
-| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.33% |
-| The Ramco Cements Ltd | Materials | Equity | 0.33% |
-| Nippon Life India Asset Management Ltd | Financial | Equity | 0.33% |
-| Biocon Ltd | Healthcare | Equity | 0.28% |
-| Swiggy Ltd. | Technology | Equity | 0.28% |
-| Neuland Laboratories Ltd | Healthcare | Equity | 0.27% |
-| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.27% |
-| JK Lakshmi Cement Ltd | Materials | Equity | 0.25% |
-| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.25% |
-| Diamond Power Infrastructure Ltd | Industrials | Equity | 0.20% |
-| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.20% |
-| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.20% |
-| Ather Energy Ltd. | Consumer Discretionary | Equity | 0.18% |
+| Embassy Office Parks REIT | Real Estate | Real Estate Investment Trusts | 0.57% |
+| Kalpataru Power Transmission Ltd | Industrials | Equity | 0.56% |
+| Craftsman Automation Ltd | Consumer Discretionary | Equity | 0.56% |
+| JSW Infrastructure Ltd | Industrials | Equity | 0.55% |
+| Havells India Ltd | Consumer Discretionary | Equity | 0.54% |
+| Infosys Ltd | Technology | Equity | 0.54% |
+| Neuland Laboratories Ltd | Healthcare | Equity | 0.52% |
+| Adani Enterprises Ltd | Materials | Equity | 0.51% |
+| NUVOCO Vistas Corp Ltd | Materials | Equity | 0.49% |
+| Prestige Estates Projects Ltd | Real Estate | Equity | 0.48% |
+| HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/- | Technology | Equity | 0.48% |
+| Bajaj Auto Ltd | Consumer Discretionary | Equity | 0.46% |
+| Ashok Leyland Ltd | Industrials | Equity | 0.46% |
+| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.46% |
+| BSE Ltd | Financial | Equity | 0.45% |
+| CORONA Remedies Ltd. | Healthcare | Equity | 0.42% |
+| Sapphire Foods India Ltd | Consumer Discretionary | Equity | 0.41% |
+| Nippon Life India Asset Management Ltd | Financial | Equity | 0.38% |
+| SBI Funds Management Ltd | Financial | Equity | 0.38% |
+| Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 0.34% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 0.33% |
+| Escorts Kubota Ltd | Industrials | Equity | 0.32% |
+| Dixon Technologies (India) Ltd | Consumer Discretionary | Equity | 0.32% |
+| The Ramco Cements Ltd | Materials | Equity | 0.31% |
+| Crompton Greaves Consumer Electricals Ltd | Consumer Discretionary | Equity | 0.30% |
+| Restaurant Brands Asia Ltd | Consumer Discretionary | Equity | 0.29% |
+| Life Insurance Corporation of India | Financial | Equity | 0.29% |
+| Swiggy Ltd. | Technology | Equity | 0.27% |
+| Biocon Ltd | Healthcare | Equity | 0.26% |
+| Apar Industries Ltd | Diversified | Equity | 0.26% |
+| Oil & Natural Gas Corporation Ltd | Energy & Utilities | Equity | 0.26% |
+| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.26% |
+| JK Lakshmi Cement Ltd | Materials | Equity | 0.23% |
+| Ather Energy Ltd. | Consumer Discretionary | Equity | 0.23% |
+| Hindustan Petroleum Corporation Ltd | Energy & Utilities | Equity | 0.23% |
+| Rubicon Research Ltd. | Healthcare | Equity | 0.21% |
+| Diamond Power Infrastructure Ltd | Industrials | Equity | 0.21% |
 | ABB India Ltd | Industrials | Equity | 0.12% |
+| Tenneco Clean Air India Ltd. | Consumer Discretionary | Equity | 0.10% |
 | GOVERNMENT OF INDIA 33618 GOI 13NV30 7.32 FV RS 100 | Entities | GOI Securities | 0.10% |
 | 7.37% GOI CG 23-10-2028 | Entities | GOI Securities | 0.09% |
-| Net Current Assets | Unspecified | Net Current Assets | 0.08% |
-| Jupiter Life Line Hospitals Ltd. | Healthcare | Equity | 0.03% |
-| Zomato Ltd | Technology | Futures | -0.00% |
+| Bank Of Baroda | Financial | Equity | 0.08% |
+| Dixon Technologies (India) Limited | Consumer Discretionary | Futures | 0.03% |
+| Net Payables | Unspecified | Net Payables | -0.08% |
 
 See All### Minimum investments
 
@@ -119,7 +122,7 @@ Annualised returnsAbsolute returns
 | --- | --- | --- | --- | --- |
 | Fund returns | +15.1% | +17.5% | +15.6% | +15.9% |
 | Category average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | -- |
-| Rank (Equity Flexi Cap) | 11 | 2 | 2 | -- |
+| Rank (Equity Flexi Cap) | 11 | 2 | 3 | -- |
 
 ## Understand terms
 
