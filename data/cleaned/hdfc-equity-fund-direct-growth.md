@@ -6,10 +6,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹59,862 |  | -0.23% |
-| 3 years | ₹1,80,000 | ₹2,00,301 |  | +11.28% |
-| 5 years | ₹3,00,000 | ₹4,25,303 |  | +41.77% |
-| 10 years | ₹6,00,000 | ₹14,36,124 |  | +139.35% |
+| 1 year | ₹60,000 | ₹60,008 |  | +0.01% |
+| 3 years | ₹1,80,000 | ₹2,00,809 |  | +11.56% |
+| 5 years | ₹3,00,000 | ₹4,26,322 |  | +42.11% |
+| 10 years | ₹6,00,000 | ₹14,39,178 |  | +139.86% |
 
 ## Holdings (86)
 
@@ -120,8 +120,8 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +15.2% | +16.5% | +15.5% | +15.7% |
-| Category average (Equity Flexi Cap) | +12.1% | +10.7% | +13.3% | +14.2% |
+| Fund returns | +15.4% | +16.5% | +15.5% | +15.8% |
+| Category average (Equity Flexi Cap) | +12.2% | +10.7% | +13.3% | +14.2% |
 | Rank (Equity Flexi Cap) | 13 | 3 | 3 | -- |
 
 ## Understand terms
