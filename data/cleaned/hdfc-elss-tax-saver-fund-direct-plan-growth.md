@@ -100,8 +100,8 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +11.3% | +13.0% | +12.7% | +13.5% |
-| Category average (Equity ELSS) | +11.4% | +10.4% | +13.2% | +17.1% |
-| Rank (Equity ELSS) | 11 | 5 | 16 | -- |
+| Category average (Equity ELSS) | +10.2% | +10.0% | +13.0% | +16.9% |
+| Rank (Equity ELSS) | 11 | 5 | 17 | -- |
 
 ## Understand terms
 
