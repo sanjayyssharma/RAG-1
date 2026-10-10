@@ -1,5 +1,5 @@
 
-HDFC ELSS Tax Saver Fund Direct Plan Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+11.10%3Y annualised-1.66% 1D1M6M1Y3Y5YAllNAV: 08 Oct '26₹1,392.88Min. for SIP₹500Fund size (AUM)₹15,991.78 CrExpense ratio1.21%Rating5### Return calculator
+HDFC ELSS Tax Saver Fund Direct Plan Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+11.10%3Y annualised+1.24% 1D1M6M1Y3Y5YAllNAV: 09 Oct '26₹1,410.20Min. for SIP₹500Fund size (AUM)₹14,948.73 CrExpense ratio1.21%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
@@ -10,77 +10,76 @@ Monthly SIPOne timeMonthly investment₹5,000
 | 5 years | ₹3,00,000 | ₹3,77,206 |  | +25.74% |
 | 10 years | ₹6,00,000 | ₹11,78,241 |  | +96.37% |
 
-## Holdings (65)
+## Holdings (64)
 
 
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 9.32% |
-| HDFC Bank Ltd | Financial | Equity | 7.36% |
-| Axis Bank Ltd | Financial | Equity | 6.50% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 4.66% |
-| State Bank of India | Financial | Equity | 4.64% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 4.59% |
-| Bharti Airtel Ltd | Technology | Equity | 4.29% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 3.25% |
-| HCL Technologies Ltd | Technology | Equity | 2.93% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 2.76% |
-| Reliance Industries Ltd | Energy & Utilities | Equity | 2.66% |
-| Zomato Ltd | Technology | Equity | 2.31% |
-| Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.96% |
-| Tata Steel Ltd | Materials | Equity | 1.73% |
-| Britannia Industries Ltd | Consumer Staples | Equity | 1.72% |
-| Larsen & Toubro Ltd | Industrials | Equity | 1.60% |
-| Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 1.53% |
-| JSW Steel Ltd | Materials | Equity | 1.51% |
-| Bosch Ltd | Consumer Discretionary | Equity | 1.41% |
-| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 1.38% |
-| PB Fintech Ltd | Financial | Equity | 1.35% |
-| Interglobe Aviation Ltd | Industrials | Equity | 1.34% |
+| ICICI Bank Ltd | Financial | Equity | 9.06% |
+| HDFC Bank Ltd | Financial | Equity | 7.87% |
+| Axis Bank Ltd | Financial | Equity | 6.56% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 4.88% |
+| State Bank of India | Financial | Equity | 4.49% |
+| Bharti Airtel Ltd | Technology | Equity | 4.45% |
+| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 4.40% |
+| SBI Life Insurance Company Ltd | Financial | Equity | 3.21% |
+| HCL Technologies Ltd | Technology | Equity | 2.94% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 2.72% |
+| Reliance Industries Ltd | Energy & Utilities | Equity | 2.64% |
+| Zomato Ltd | Technology | Equity | 2.41% |
+| Bajaj Auto Ltd | Consumer Discretionary | Equity | 1.88% |
+| Tata Steel Ltd | Materials | Equity | 1.85% |
+| Britannia Industries Ltd | Consumer Staples | Equity | 1.69% |
+| Larsen & Toubro Ltd | Industrials | Equity | 1.59% |
+| JSW Steel Ltd | Materials | Equity | 1.55% |
+| Dr. Lal Pathlabs Ltd | Healthcare | Equity | 1.52% |
+| Apollo Hospitals Enterprise Ltd | Healthcare | Equity | 1.50% |
+| Bosch Ltd | Consumer Discretionary | Equity | 1.42% |
+| Interglobe Aviation Ltd | Industrials | Equity | 1.37% |
 | Karur Vysya Bank Ltd | Financial | Equity | 1.30% |
-| Jubilant FoodWorks Ltd | Consumer Discretionary | Equity | 1.23% |
-| Metropolis Healthcare Ltd | Healthcare | Equity | 1.17% |
-| Alkem Laboratories Ltd | Healthcare | Equity | 1.17% |
-| Infosys Ltd | Technology | Equity | 1.17% |
-| Hindustan Aeronautics Ltd | Industrials | Equity | 1.13% |
-| Cipla Ltd | Healthcare | Equity | 1.09% |
+| Jubilant FoodWorks Ltd | Consumer Discretionary | Equity | 1.21% |
+| Alkem Laboratories Ltd | Healthcare | Equity | 1.21% |
+| Hindustan Aeronautics Ltd | Industrials | Equity | 1.17% |
+| Metropolis Healthcare Ltd | Healthcare | Equity | 1.16% |
+| Cipla Ltd | Healthcare | Equity | 1.11% |
+| ICICI Lombard General Insurance Company Ltd | Financial | Equity | 1.10% |
+| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 1.09% |
 | Star Health & Allied Insurance Co. Ltd | Financial | Equity | 1.07% |
-| Mphasis Ltd | Technology | Equity | 1.06% |
-| United Spirits Ltd | Consumer Staples | Equity | 1.06% |
-| Power Grid Corporation of India Ltd | Energy & Utilities | Equity | 1.03% |
-| Repo | Unspecified | Repo | 1.03% |
-| ICICI Lombard General Insurance Company Ltd | Financial | Equity | 1.02% |
+| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.05% |
+| United Spirits Ltd | Consumer Staples | Equity | 1.03% |
 | Tech Mahindra Ltd | Technology | Equity | 1.02% |
-| Lupin Ltd | Healthcare | Equity | 0.96% |
-| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 0.96% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 0.90% |
-| JSW Energy Ltd | Energy & Utilities | Equity | 0.87% |
-| Havells India Ltd | Consumer Discretionary | Equity | 0.83% |
+| Mphasis Ltd | Technology | Equity | 1.01% |
+| JSW Energy Ltd | Energy & Utilities | Equity | 0.97% |
+| Infosys Ltd | Technology | Equity | 0.96% |
+| Lupin Ltd | Healthcare | Equity | 0.95% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 0.86% |
+| PB Fintech Ltd | Financial | Equity | 0.84% |
 | Chalet Hotels Ltd | Consumer Discretionary | Equity | 0.81% |
-| Hindustan Unilever Ltd | Consumer Staples | Equity | 0.74% |
+| IIFL Wealth Management Ltd | Financial | Equity | 0.79% |
+| Hindustan Unilever Ltd | Consumer Staples | Equity | 0.75% |
 | Godrej Consumer Products Ltd | Consumer Staples | Equity | 0.74% |
-| IIFL Wealth Management Ltd | Financial | Equity | 0.73% |
-| Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.72% |
-| Birla Corporation Ltd | Materials | Equity | 0.55% |
-| Westlife Development Ltd | Consumer Discretionary | Equity | 0.53% |
-| Life Insurance Corporation of India | Financial | Equity | 0.52% |
-| Bharat Electronics Ltd | Industrials | Equity | 0.47% |
-| The Ramco Cements Ltd | Materials | Equity | 0.44% |
+| Havells India Ltd | Consumer Discretionary | Equity | 0.73% |
+| Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.69% |
+| Cummins India Ltd | Industrials | Equity | 0.68% |
+| Westlife Development Ltd | Consumer Discretionary | Equity | 0.59% |
+| Birla Corporation Ltd | Materials | Equity | 0.56% |
+| Bharat Electronics Ltd | Industrials | Equity | 0.56% |
+| Life Insurance Corporation of India | Financial | Equity | 0.53% |
+| Repo | Unspecified | Repo | 0.47% |
+| The Ramco Cements Ltd | Materials | Equity | 0.45% |
 | Cyient Ltd | Technology | Equity | 0.44% |
-| Suven Pharmaceuticals Ltd | Healthcare | Equity | 0.41% |
-| TeamLease Services Ltd | Industrials | Equity | 0.33% |
-| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.32% |
-| Popular Vehicles And Services Ltd. | Consumer Discretionary | Equity | 0.32% |
-| Anthem Biosciences Ltd. | Healthcare | Equity | 0.28% |
-| Rubicon Research Ltd. | Healthcare | Equity | 0.25% |
-| Tata Motors Ltd | Industrials | Equity | 0.18% |
-| Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.13% |
+| Suven Pharmaceuticals Ltd | Healthcare | Equity | 0.42% |
+| GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100 | Entities | GOI Securities | 0.34% |
+| TeamLease Services Ltd | Industrials | Equity | 0.31% |
+| Popular Vehicles And Services Ltd. | Consumer Discretionary | Equity | 0.31% |
+| Rubicon Research Ltd. | Healthcare | Equity | 0.24% |
+| Tata Motors Ltd | Industrials | Equity | 0.17% |
 | JK Lakshmi Cement Ltd | Materials | Equity | 0.13% |
-| SBI Funds Management Ltd | Financial | Equity | 0.06% |
-| Medi Assist Healthcare Services Ltd. | Industrials | Equity | 0.04% |
-| Escorts Kubota Ltd | Industrials | Equity | 0.03% |
-| Net Payables | Unspecified | Net Payables | -0.04% |
+| Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.12% |
+| Anthem Biosciences Ltd. | Healthcare | Equity | 0.07% |
+| SBI Funds Management Ltd | Financial | Equity | 0.05% |
+| Net Payables | Unspecified | Net Payables | -0.06% |
 
 See All### Minimum investments
 
@@ -101,7 +100,7 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +11.1% | +12.1% | +12.4% | +13.4% |
-| Category average (Equity ELSS) | +10.2% | +10.0% | +13.0% | +16.9% |
+| Category average (Equity ELSS) | +9.8% | +9.3% | +12.7% | +16.8% |
 | Rank (Equity ELSS) | 11 | 5 | 17 | -- |
 
 ## Understand terms
@@ -140,7 +139,7 @@ EducationMr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Busines
 
 EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Ultra Short to Short Term Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Interest Rates Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Term Fund Direct Plan GrowthHDFC Medium Term Fund Direct GrowthHDFC Medium to Long Term Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Conservative Hybrid Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Aggressive Hybrid Fund Direct Plan GrowthHDFC Short Term Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large & Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Term Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct Growth### About HDFC ELSS Tax Saver Fund Direct Plan Growth
 
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 08 Oct 2026 is ₹1,392.88.
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 09 Oct 2026 is ₹1,410.20.
 The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. 
 ;#### Investment Objective
 

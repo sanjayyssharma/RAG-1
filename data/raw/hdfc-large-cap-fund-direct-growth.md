@@ -1,5 +1,5 @@
 
-HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+7.16%3Y annualised-1.78% 1D1M6M1Y3Y5YAllNAV: 08 Oct '26₹1,140.67Min. for SIP₹100Fund size (AUM)₹39,933.36 CrExpense ratio1.04%Rating4### Return calculator
+HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+7.16%3Y annualised+1.08% 1D1M6M1Y3Y5YAllNAV: 09 Oct '26₹1,152.95Min. for SIP₹100Fund size (AUM)₹37,293.95 CrExpense ratio1.04%Rating4### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
@@ -10,62 +10,61 @@ Monthly SIPOne timeMonthly investment₹5,000
 | 5 years | ₹3,00,000 | ₹3,49,974 |  | +16.66% |
 | 10 years | ₹6,00,000 | ₹10,63,483 |  | +77.25% |
 
-## Holdings (50)
+## Holdings (49)
 
 
 
 | Name | Sector | Instruments | Assets |
 | --- | --- | --- | --- |
-| ICICI Bank Ltd | Financial | Equity | 10.05% |
-| HDFC Bank Ltd | Financial | Equity | 6.88% |
-| Bharti Airtel Ltd | Technology | Equity | 6.23% |
-| Kotak Mahindra Bank Ltd | Financial | Equity | 5.71% |
-| Titan Company Ltd | Consumer Discretionary | Equity | 5.27% |
-| Reliance Industries Ltd | Energy & Utilities | Equity | 4.78% |
-| Torrent Pharmaceuticals Ltd | Healthcare | Equity | 4.04% |
-| Axis Bank Ltd | Financial | Equity | 3.49% |
-| Bajaj Finserv Ltd | Financial | Equity | 3.33% |
-| Bajaj Auto Ltd | Consumer Discretionary | Equity | 2.93% |
-| Infosys Ltd | Technology | Equity | 2.76% |
-| Lupin Ltd | Healthcare | Equity | 2.53% |
-| Zomato Ltd | Technology | Equity | 2.49% |
-| Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 2.44% |
+| ICICI Bank Ltd | Financial | Equity | 9.79% |
+| HDFC Bank Ltd | Financial | Equity | 7.36% |
+| Bharti Airtel Ltd | Technology | Equity | 6.46% |
+| Kotak Mahindra Bank Ltd | Financial | Equity | 6.08% |
+| Titan Company Ltd | Consumer Discretionary | Equity | 5.07% |
+| Reliance Industries Ltd | Energy & Utilities | Equity | 4.76% |
+| Torrent Pharmaceuticals Ltd | Healthcare | Equity | 4.09% |
+| Axis Bank Ltd | Financial | Equity | 3.52% |
+| Bajaj Finserv Ltd | Financial | Equity | 3.05% |
+| Bajaj Auto Ltd | Consumer Discretionary | Equity | 2.81% |
+| Zomato Ltd | Technology | Equity | 2.60% |
+| Infosys Ltd | Technology | Equity | 2.59% |
+| Lupin Ltd | Healthcare | Equity | 2.51% |
+| Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 2.28% |
 | Ambuja Cements Ltd | Materials | Equity | 2.24% |
-| Tata Motors Ltd | Industrials | Equity | 2.02% |
-| Larsen & Toubro Ltd | Industrials | Equity | 1.99% |
-| Interglobe Aviation Ltd | Industrials | Equity | 1.97% |
-| State Bank of India | Financial | Equity | 1.89% |
-| NTPC Ltd | Energy & Utilities | Equity | 1.83% |
-| United Spirits Ltd | Consumer Staples | Equity | 1.78% |
-| Max Healthcare Institute Ltd | Healthcare | Equity | 1.72% |
-| Mankind Pharma Ltd. | Healthcare | Equity | 1.66% |
-| Indusind Bank Ltd | Financial | Equity | 1.57% |
-| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.43% |
-| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.37% |
-| Havells India Ltd | Consumer Discretionary | Equity | 1.35% |
-| Tata Consumer Products Ltd | Consumer Staples | Equity | 1.31% |
-| Swiggy Ltd. | Technology | Equity | 1.30% |
-| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.21% |
-| Repo | Unspecified | Repo | 1.04% |
-| Eicher Motors Ltd | Consumer Discretionary | Equity | 1.03% |
-| SRF Ltd | Materials | Equity | 0.89% |
-| Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 0.87% |
-| TATA CAPITAL LIMITED EQ | Financial | Equity | 0.75% |
-| SBI Funds Management Ltd | Financial | Equity | 0.67% |
-| Dabur India Ltd | Consumer Staples | Equity | 0.66% |
-| Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.65% |
+| Interglobe Aviation Ltd | Industrials | Equity | 2.00% |
+| Larsen & Toubro Ltd | Industrials | Equity | 1.98% |
+| Tata Motors Ltd | Industrials | Equity | 1.94% |
+| NTPC Ltd | Energy & Utilities | Equity | 1.93% |
+| Mankind Pharma Ltd. | Healthcare | Equity | 1.84% |
+| State Bank of India | Financial | Equity | 1.83% |
+| United Spirits Ltd | Consumer Staples | Equity | 1.73% |
+| Max Healthcare Institute Ltd | Healthcare | Equity | 1.65% |
+| ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.57% |
+| Indusind Bank Ltd | Financial | Equity | 1.49% |
+| Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.33% |
+| Tata Consumer Products Ltd | Consumer Staples | Equity | 1.29% |
+| Swiggy Ltd. | Technology | Equity | 1.24% |
+| Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.19% |
+| Repo | Unspecified | Repo | 1.19% |
+| Havells India Ltd | Consumer Discretionary | Equity | 1.18% |
+| Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 1.05% |
+| Eicher Motors Ltd | Consumer Discretionary | Equity | 0.99% |
+| SRF Ltd | Materials | Equity | 0.92% |
+| TATA CAPITAL LIMITED EQ | Financial | Equity | 0.72% |
+| Dabur India Ltd | Consumer Staples | Equity | 0.70% |
+| SBI Funds Management Ltd | Financial | Equity | 0.64% |
 | CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.62% |
-| GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.48% |
+| Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.62% |
+| GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.51% |
 | Bharat Electronics Ltd | Industrials | Equity | 0.47% |
 | Life Insurance Corporation of India | Financial | Equity | 0.41% |
-| Tata Motors Ltd | Consumer Discretionary | Equity | 0.41% |
-| DLF Ltd | Real Estate | Equity | 0.37% |
+| Tata Motors Ltd | Consumer Discretionary | Equity | 0.40% |
+| DLF Ltd | Real Estate | Equity | 0.38% |
 | Cummins India Ltd | Industrials | Equity | 0.29% |
 | Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.28% |
-| Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 0.24% |
+| National Stock Exchange Of India Ltd Equity | Financial | Equity | 0.25% |
 | Hindalco Industries Ltd | Materials | Equity | 0.23% |
-| SBI Life Insurance Company Ltd | Financial | Equity | 0.17% |
-| Net Payables | Unspecified | Net Payables | -0.10% |
+| Net Payables | Unspecified | Net Payables | -0.07% |
 
 See All### Minimum investments
 
@@ -86,7 +85,7 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +7.2% | +8.9% | +11.5% | +12.4% |
-| Category average (Equity Large Cap) | +9.1% | +8.4% | +11.8% | +12.4% |
+| Category average (Equity Large Cap) | +8.7% | +7.7% | +11.5% | +12.3% |
 | Rank (Equity Large Cap) | 44 | 19 | 14 | -- |
 
 ## Understand terms
@@ -126,9 +125,9 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 | --- | --- | --- | --- | --- |
 |  | Invesco India Large Cap Fund Direct Growth | -2.24% | +12.28% | 1,926.46 |
 |  | Bandhan Large Cap Fund Direct Growth | -4.21% | +11.13% | 2,179.99 |
-|  | Nippon India Large Cap Fund Direct Growth | -8.14% | +9.14% | 54,133.66 |
-|  | ICICI Prudential Large Cap Fund Direct Growth | -8.86% | +9.00% | 80,206.20 |
-|  | HDFC Large Cap Fund Direct Growth | -7.54% | +7.16% | 39,933.36 |
+|  | Nippon India Large Cap Fund Direct Growth | -8.14% | +9.14% | 51,296.06 |
+|  | ICICI Prudential Large Cap Fund Direct Growth | -8.86% | +9.00% | 76,352.23 |
+|  | HDFC Large Cap Fund Direct Growth | -7.54% | +7.16% | 37,293.95 |
 | Compare  |
 
 ### Fund management
@@ -139,7 +138,7 @@ EducationMr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering g
 
 EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Ultra Short to Short Term Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Interest Rates Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Term Fund Direct Plan GrowthHDFC Medium Term Fund Direct GrowthHDFC Medium to Long Term Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Conservative Hybrid Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Aggressive Hybrid Fund Direct Plan GrowthHDFC Short Term Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large & Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Term Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct Growth### About HDFC Large Cap Fund Direct Growth
 
-HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 08 Oct 2026 is ₹1,140.67.
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 09 Oct 2026 is ₹1,152.95.
 The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;#### Investment Objective
 
