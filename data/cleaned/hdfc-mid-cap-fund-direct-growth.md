@@ -1,15 +1,15 @@
 # HDFC Mid Cap Fund Direct Growth
 
-NAV: 09 Oct '26₹219.82Min. for SIP₹100Fund size (AUM)₹1,01,856.06 CrExpense ratio0.76%Rating4### Return calculator
+NAV: 09 Oct '26₹219.82Min. for SIP₹100Fund size (AUM)₹1,01,856.06 CrExpense ratio0.75%Rating4### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹58,612 |  | -2.31% |
-| 3 years | ₹1,80,000 | ₹1,96,102 |  | +8.95% |
-| 5 years | ₹3,00,000 | ₹4,36,420 |  | +45.47% |
-| 10 years | ₹6,00,000 | ₹15,56,199 |  | +159.37% |
+| 1 year | ₹60,000 | ₹59,329 |  | -1.12% |
+| 3 years | ₹1,80,000 | ₹1,98,502 |  | +10.28% |
+| 5 years | ₹3,00,000 | ₹4,41,656 |  | +47.22% |
+| 10 years | ₹6,00,000 | ₹15,75,373 |  | +162.56% |
 
 ## Holdings (81)
 
@@ -115,9 +115,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +14.8% | +16.6% | +16.3% | +19.4% |
-| Category average (Equity Mid Cap) | +14.0% | +13.5% | +15.5% | +18.1% |
-| Rank (Equity Mid Cap) | 17 | 4 | 8 | -- |
+| Fund returns | +15.9% | +16.9% | +16.4% | +19.5% |
+| Category average (Equity Mid Cap) | +14.9% | +13.7% | +15.6% | +18.2% |
+| Rank (Equity Mid Cap) | 16 | 4 | 8 | -- |
 
 ## Understand terms
 
@@ -151,11 +151,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | HSBC Midcap Fund Direct Growth | +12.74% | +21.62% | 16,799.59 |
-|  | Invesco India Mid Cap Fund Direct Growth | +4.12% | +21.28% | 15,779.54 |
-|  | WhiteOak Capital Mid Cap Fund Direct Growth | +8.28% | +19.73% | 7,485.36 |
-|  | Edelweiss Mid Cap Direct Plan Growth | +1.88% | +18.78% | 19,890.99 |
-|  | Nippon India Growth Mid Cap Fund Direct Growth | +2.97% | +16.37% | 50,176.01 |
+|  | HSBC Midcap Fund Direct Growth | +13.55% | +22.55% | 16,799.59 |
+|  | Invesco India Mid Cap Fund Direct Growth | +4.07% | +22.14% | 15,779.54 |
+|  | WhiteOak Capital Mid Cap Fund Direct Growth | +8.90% | +20.61% | 7,485.36 |
+|  | Edelweiss Mid Cap Direct Plan Growth | +2.50% | +19.71% | 19,230.15 |
+|  | Nippon India Growth Mid Cap Fund Direct Growth | +3.32% | +17.22% | 50,176.01 |
 | Compare  |
 
 ### Fund management

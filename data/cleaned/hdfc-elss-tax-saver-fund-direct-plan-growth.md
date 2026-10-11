@@ -1,15 +1,15 @@
 # HDFC ELSS Tax Saver Fund Direct Plan Growth
 
-NAV: 09 Oct '26₹1,410.20Min. for SIP₹500Fund size (AUM)₹14,948.73 CrExpense ratio1.21%Rating5### Return calculator
+NAV: 09 Oct '26₹1,410.20Min. for SIP₹500Fund size (AUM)₹14,948.73 CrExpense ratio1.20%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹56,048 |  | -6.59% |
-| 3 years | ₹1,80,000 | ₹1,79,266 |  | -0.41% |
-| 5 years | ₹3,00,000 | ₹3,77,206 |  | +25.74% |
-| 10 years | ₹6,00,000 | ₹11,78,241 |  | +96.37% |
+| 1 year | ₹60,000 | ₹56,736 |  | -5.44% |
+| 3 years | ₹1,80,000 | ₹1,81,474 |  | +0.82% |
+| 5 years | ₹3,00,000 | ₹3,81,698 |  | +27.23% |
+| 10 years | ₹6,00,000 | ₹11,91,984 |  | +98.66% |
 
 ## Holdings (64)
 
@@ -98,8 +98,8 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +11.1% | +12.1% | +12.4% | +13.4% |
-| Category average (Equity ELSS) | +9.8% | +9.3% | +12.7% | +16.8% |
+| Fund returns | +11.8% | +12.4% | +12.5% | +13.5% |
+| Category average (Equity ELSS) | +10.6% | +9.5% | +12.8% | +16.9% |
 | Rank (Equity ELSS) | 11 | 5 | 17 | -- |
 
 ## Understand terms

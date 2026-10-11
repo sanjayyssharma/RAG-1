@@ -6,10 +6,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹57,778 |  | -3.70% |
-| 3 years | ₹1,80,000 | ₹1,90,406 |  | +5.78% |
-| 5 years | ₹3,00,000 | ₹4,07,638 |  | +35.88% |
-| 10 years | ₹6,00,000 | ₹13,59,010 |  | +126.50% |
+| 1 year | ₹60,000 | ₹58,495 |  | -2.51% |
+| 3 years | ₹1,80,000 | ₹1,92,786 |  | +7.10% |
+| 5 years | ₹3,00,000 | ₹4,12,658 |  | +37.55% |
+| 10 years | ₹6,00,000 | ₹13,75,687 |  | +129.28% |
 
 ## Holdings (33)
 
@@ -67,9 +67,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +14.0% | +15.8% | +14.1% | +14.3% |
-| Category average (Equity Flexi Cap) | +11.3% | +10.0% | +13.2% | +14.5% |
-| Rank (Equity Flexi Cap) | 6 | 1 | 4 | -- |
+| Fund returns | +14.7% | +16.1% | +14.2% | +14.4% |
+| Category average (Equity Flexi Cap) | +12.0% | +10.2% | +13.3% | +14.6% |
+| Rank (Equity Flexi Cap) | 5 | 1 | 4 | -- |
 
 ## Understand terms
 
@@ -104,11 +104,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Bank of India Flexi Cap Fund Direct Growth | +7.75% | +17.78% | 2,952.99 |
-|  | ITI Flexi Cap Fund Direct Growth | +9.51% | +17.59% | 1,588.12 |
-|  | HSBC Flexi Cap Fund Direct Growth | +2.70% | +14.46% | 5,748.73 |
-|  | HDFC Flexi Cap Direct Plan Growth | -4.25% | +13.97% | 1,08,546.97 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -7.78% | +8.90% | 19,384.81 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +8.24% | +18.64% | 2,952.99 |
+|  | ITI Flexi Cap Fund Direct Growth | +9.81% | +18.47% | 1,588.12 |
+|  | HSBC Flexi Cap Fund Direct Growth | +3.07% | +15.20% | 5,748.73 |
+|  | HDFC Flexi Cap Direct Plan Growth | -3.52% | +14.68% | 1,08,546.97 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -7.29% | +9.63% | 19,384.81 |
 | Compare  |
 
 ### Fund management

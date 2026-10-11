@@ -1,14 +1,14 @@
 
-HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+7.16%3Y annualised+1.08% 1D1M6M1Y3Y5YAllNAV: 09 Oct '26₹1,152.95Min. for SIP₹100Fund size (AUM)₹37,293.95 CrExpense ratio1.04%Rating4### Return calculator
+HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+7.80%3Y annualised+1.08% 1D1M6M1Y3Y5YAllNAV: 09 Oct '26₹1,152.95Min. for SIP₹100Fund size (AUM)₹37,293.95 CrExpense ratio1.04%Rating4### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹56,283 |  | -6.19% |
-| 3 years | ₹1,80,000 | ₹1,75,213 |  | -2.66% |
-| 5 years | ₹3,00,000 | ₹3,49,974 |  | +16.66% |
-| 10 years | ₹6,00,000 | ₹10,63,483 |  | +77.25% |
+| 1 year | ₹60,000 | ₹56,883 |  | -5.20% |
+| 3 years | ₹1,80,000 | ₹1,77,102 |  | -1.61% |
+| 5 years | ₹3,00,000 | ₹3,53,652 |  | +17.88% |
+| 10 years | ₹6,00,000 | ₹10,74,690 |  | +79.12% |
 
 ## Holdings (49)
 
@@ -84,9 +84,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +7.2% | +8.9% | +11.5% | +12.4% |
-| Category average (Equity Large Cap) | +8.7% | +7.7% | +11.5% | +12.3% |
-| Rank (Equity Large Cap) | 44 | 19 | 14 | -- |
+| Fund returns | +7.8% | +9.1% | +11.6% | +12.4% |
+| Category average (Equity Large Cap) | +9.4% | +7.9% | +11.7% | +12.4% |
+| Rank (Equity Large Cap) | 44 | 20 | 14 | -- |
 
 ## Understand terms
 
@@ -123,11 +123,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Invesco India Large Cap Fund Direct Growth | -2.24% | +12.28% | 1,926.46 |
-|  | Bandhan Large Cap Fund Direct Growth | -4.21% | +11.13% | 2,179.99 |
-|  | Nippon India Large Cap Fund Direct Growth | -8.14% | +9.14% | 51,296.06 |
-|  | ICICI Prudential Large Cap Fund Direct Growth | -8.86% | +9.00% | 76,352.23 |
-|  | HDFC Large Cap Fund Direct Growth | -7.54% | +7.16% | 37,293.95 |
+|  | Invesco India Large Cap Fund Direct Growth | -1.83% | +13.03% | 1,926.46 |
+|  | Bandhan Large Cap Fund Direct Growth | -3.74% | +11.83% | 2,179.99 |
+|  | Nippon India Large Cap Fund Direct Growth | -7.51% | +9.94% | 51,296.06 |
+|  | ICICI Prudential Large Cap Fund Direct Growth | -8.18% | +9.70% | 76,352.23 |
+|  | HDFC Large Cap Fund Direct Growth | -6.83% | +7.80% | 37,293.95 |
 | Compare  |
 
 ### Fund management
