@@ -159,10 +159,10 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
 |  | Bank of India Flexi Cap Fund Direct Growth | +8.24% | +18.64% | 2,952.99 |
-|  | ITI Flexi Cap Fund Direct Growth | +9.81% | +18.47% | 1,588.12 |
+|  | ITI Flexi Cap Fund Direct Growth | +9.81% | +18.47% | 1,588.27 |
 |  | HSBC Flexi Cap Fund Direct Growth | +3.07% | +15.20% | 5,748.73 |
 |  | HDFC Flexi Cap Direct Plan Growth | -3.52% | +14.68% | 1,08,546.97 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -7.29% | +9.63% | 19,384.81 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -7.29% | +9.63% | 18,188.24 |
 | Compare  |
 
 ### Fund management
