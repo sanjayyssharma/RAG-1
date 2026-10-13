@@ -1,15 +1,15 @@
 # HDFC Flexi Cap Direct Plan Growth
 
-NAV: 09 Oct '26₹2,152.47Min. for SIP₹100Fund size (AUM)₹1,08,546.97 CrExpense ratio0.75%Rating5### Return calculator
+NAV: 12 Oct '26₹2,147.24Min. for SIP₹100Fund size (AUM)₹1,08,546.97 CrExpense ratio0.75%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹58,528 |  | -2.45% |
-| 3 years | ₹1,80,000 | ₹1,93,447 |  | +7.47% |
-| 5 years | ₹3,00,000 | ₹4,11,670 |  | +37.22% |
-| 10 years | ₹6,00,000 | ₹13,93,315 |  | +132.22% |
+| 1 year | ₹60,000 | ₹58,419 |  | -2.63% |
+| 3 years | ₹1,80,000 | ₹1,92,896 |  | +7.16% |
+| 5 years | ₹3,00,000 | ₹4,10,289 |  | +36.76% |
+| 10 years | ₹6,00,000 | ₹13,88,150 |  | +131.36% |
 
 ## Holdings (86)
 
@@ -120,9 +120,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +14.7% | +15.2% | +15.1% | +15.5% |
+| Fund returns | +14.1% | +14.8% | +15.1% | +15.4% |
 | Category average (Equity Flexi Cap) | +11.3% | +9.8% | +13.0% | +14.0% |
-| Rank (Equity Flexi Cap) | 12 | 4 | 3 | -- |
+| Rank (Equity Flexi Cap) | 11 | 3 | 2 | -- |
 
 ## Understand terms
 
@@ -158,11 +158,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Bank of India Flexi Cap Fund Direct Growth | +8.24% | +18.64% | 2,952.99 |
-|  | ITI Flexi Cap Fund Direct Growth | +9.81% | +18.47% | 1,588.27 |
-|  | HSBC Flexi Cap Fund Direct Growth | +3.07% | +15.20% | 5,748.73 |
-|  | HDFC Flexi Cap Direct Plan Growth | -3.52% | +14.68% | 1,08,546.97 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -7.29% | +9.63% | 18,188.24 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +7.76% | +17.95% | 3,098.01 |
+|  | ITI Flexi Cap Fund Direct Growth | +9.50% | +17.91% | 1,588.27 |
+|  | HSBC Flexi Cap Fund Direct Growth | +3.12% | +14.65% | 5,748.73 |
+|  | HDFC Flexi Cap Direct Plan Growth | -4.30% | +14.09% | 1,08,546.97 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -7.91% | +8.86% | 18,188.24 |
 | Compare  |
 
 ### Fund management
@@ -173,11 +173,11 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Flexi Cap Direct Plan Growth
 
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 09 Oct 2026 is ₹2,152.47.
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 12 Oct 2026 is ₹2,147.24.
 The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ;#### Investment Objective
 
 The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.Fund benchmarkNIFTY 500 Total Return IndexScheme Information Document(SID)### Fund house
 
-HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,86,236.84 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020CustodianDeutsche BankRegistrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+HDFC Mutual FundRank (total assets)#2 in IndiaTotal AUM₹9,34,075.66 CrDate of Incorporation10 Dec 1999Phone022 – 66316333E-mail[email protected]Websitehttp://www.hdfcfund.comLaunch Date10 Dec 1999Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020CustodianDeutsche BankRegistrar & Transfer AgentCamsEmail[email protected]Websitewww.camsonline.comAddress7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
