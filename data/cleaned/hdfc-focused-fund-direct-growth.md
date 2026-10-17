@@ -1,6 +1,6 @@
 # HDFC Focused Fund Direct Growth
 
-NAV: 15 Oct '26₹260.20Min. for SIP₹100Fund size (AUM)₹26,552.91 CrExpense ratio0.82%Rating5### Return calculator
+NAV: 16 Oct '26₹261.24Min. for SIP₹100Fund size (AUM)₹26,552.91 CrExpense ratio0.83%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
@@ -68,8 +68,8 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +14.8% | +15.7% | +14.4% | +14.5% |
-| Category average (Equity Flexi Cap) | +12.0% | +10.2% | +13.3% | +14.6% |
-| Rank (Equity Flexi Cap) | 4 | 1 | 3 | -- |
+| Category average (Equity Flexi Cap) | +11.8% | +9.8% | +13.5% | +14.6% |
+| Rank (Equity Flexi Cap) | 4 | 1 | 4 | -- |
 
 ## Understand terms
 
@@ -119,7 +119,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Focused Fund Direct Growth
 
-HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 15 Oct 2026 is ₹260.20.
+HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 16 Oct 2026 is ₹261.24.
 The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;#### Investment Objective
 

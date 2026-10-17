@@ -1,6 +1,6 @@
 # HDFC Flexi Cap Direct Plan Growth
 
-NAV: 15 Oct '26₹2,180.47Min. for SIP₹100Fund size (AUM)₹1,08,546.97 CrExpense ratio0.75%Rating5### Return calculator
+NAV: 16 Oct '26₹2,184.73Min. for SIP₹100Fund size (AUM)₹1,08,546.97 CrExpense ratio0.75%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
@@ -121,8 +121,8 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +14.7% | +14.6% | +15.4% | +15.6% |
-| Category average (Equity Flexi Cap) | +11.3% | +9.8% | +13.0% | +14.0% |
-| Rank (Equity Flexi Cap) | 9 | 3 | 2 | -- |
+| Category average (Equity Flexi Cap) | +11.0% | +9.5% | +13.2% | +14.0% |
+| Rank (Equity Flexi Cap) | 10 | 4 | 3 | -- |
 
 ## Understand terms
 
@@ -173,7 +173,7 @@ EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,
 
 EducationMr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.ExperiencePrior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.Also manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Focused Fund Direct Growth### About HDFC Flexi Cap Direct Plan Growth
 
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 15 Oct 2026 is ₹2,180.47.
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 16 Oct 2026 is ₹2,184.73.
 The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 
 ;#### Investment Objective
