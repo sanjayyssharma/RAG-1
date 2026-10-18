@@ -6,10 +6,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹59,412 |  | -0.98% |
-| 3 years | ₹1,80,000 | ₹1,95,658 |  | +8.70% |
-| 5 years | ₹3,00,000 | ₹4,18,336 |  | +39.45% |
-| 10 years | ₹6,00,000 | ₹13,94,055 |  | +132.34% |
+| 1 year | ₹60,000 | ₹59,633 |  | -0.61% |
+| 3 years | ₹1,80,000 | ₹1,96,381 |  | +9.10% |
+| 5 years | ₹3,00,000 | ₹4,19,842 |  | +39.95% |
+| 10 years | ₹6,00,000 | ₹13,98,501 |  | +133.08% |
 
 ## Holdings (33)
 
@@ -67,8 +67,8 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +14.8% | +15.7% | +14.4% | +14.5% |
-| Category average (Equity Flexi Cap) | +11.8% | +9.8% | +13.5% | +14.6% |
+| Fund returns | +14.9% | +15.8% | +14.4% | +14.5% |
+| Category average (Equity Flexi Cap) | +12.0% | +9.9% | +13.5% | +14.7% |
 | Rank (Equity Flexi Cap) | 4 | 1 | 4 | -- |
 
 ## Understand terms
@@ -104,11 +104,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | ITI Flexi Cap Fund Direct Growth | +9.35% | +17.98% | 1,588.27 |
-|  | Bank of India Flexi Cap Fund Direct Growth | +7.52% | +17.73% | 3,098.01 |
-|  | HDFC Flexi Cap Direct Plan Growth | -2.73% | +14.74% | 1,08,546.97 |
-|  | HSBC Flexi Cap Fund Direct Growth | +2.82% | +14.73% | 5,748.73 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -6.54% | +9.54% | 18,188.24 |
+|  | ITI Flexi Cap Fund Direct Growth | +9.04% | +18.00% | 1,588.27 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +7.81% | +17.89% | 3,098.01 |
+|  | HDFC Flexi Cap Direct Plan Growth | -3.40% | +14.74% | 1,08,546.97 |
+|  | HSBC Flexi Cap Fund Direct Growth | +2.31% | +14.71% | 5,748.73 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -6.92% | +9.63% | 18,188.24 |
 | Compare  |
 
 ### Fund management

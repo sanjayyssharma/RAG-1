@@ -6,10 +6,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹57,736 |  | -3.77% |
-| 3 years | ₹1,80,000 | ₹1,79,580 |  | -0.23% |
-| 5 years | ₹3,00,000 | ₹3,58,234 |  | +19.41% |
-| 10 years | ₹6,00,000 | ₹10,87,733 |  | +81.29% |
+| 1 year | ₹60,000 | ₹57,897 |  | -3.50% |
+| 3 years | ₹1,80,000 | ₹1,80,079 |  | +0.04% |
+| 5 years | ₹3,00,000 | ₹3,59,105 |  | +19.70% |
+| 10 years | ₹6,00,000 | ₹10,90,591 |  | +81.77% |
 
 ## Holdings (49)
 
@@ -83,9 +83,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +7.7% | +8.8% | +12.0% | +12.6% |
-| Category average (Equity Large Cap) | +9.5% | +7.7% | +12.0% | +12.5% |
-| Rank (Equity Large Cap) | 47 | 20 | 12 | -- |
+| Fund returns | +7.8% | +8.9% | +12.0% | +12.6% |
+| Category average (Equity Large Cap) | +9.7% | +7.8% | +12.0% | +12.6% |
+| Rank (Equity Large Cap) | 49 | 20 | 12 | -- |
 
 ## Understand terms
 
@@ -120,11 +120,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Invesco India Large Cap Fund Direct Growth | -1.65% | +12.81% | 1,925.14 |
-|  | Bandhan Large Cap Fund Direct Growth | -3.36% | +11.87% | 2,097.65 |
-|  | Nippon India Large Cap Fund Direct Growth | -6.44% | +9.97% | 51,296.06 |
-|  | ICICI Prudential Large Cap Fund Direct Growth | -7.23% | +9.72% | 76,352.23 |
-|  | HDFC Large Cap Fund Direct Growth | -5.97% | +7.73% | 37,293.95 |
+|  | Invesco India Large Cap Fund Direct Growth | -1.90% | +13.06% | 1,925.14 |
+|  | Bandhan Large Cap Fund Direct Growth | -3.52% | +12.13% | 2,097.65 |
+|  | Nippon India Large Cap Fund Direct Growth | -6.63% | +10.16% | 51,296.06 |
+|  | ICICI Prudential Large Cap Fund Direct Growth | -7.55% | +9.85% | 76,352.23 |
+|  | HDFC Large Cap Fund Direct Growth | -6.60% | +7.85% | 37,293.95 |
 | Compare  |
 
 ### Fund management

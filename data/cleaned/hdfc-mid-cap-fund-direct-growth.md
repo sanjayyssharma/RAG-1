@@ -6,10 +6,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹59,788 |  | -0.35% |
-| 3 years | ₹1,80,000 | ₹1,99,850 |  | +11.03% |
-| 5 years | ₹3,00,000 | ₹4,44,083 |  | +48.03% |
-| 10 years | ₹6,00,000 | ₹15,83,785 |  | +163.96% |
+| 1 year | ₹60,000 | ₹59,661 |  | -0.56% |
+| 3 years | ₹1,80,000 | ₹1,99,372 |  | +10.76% |
+| 5 years | ₹3,00,000 | ₹4,42,921 |  | +47.64% |
+| 10 years | ₹6,00,000 | ₹15,78,732 |  | +163.12% |
 
 ## Holdings (81)
 
@@ -115,9 +115,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +15.4% | +16.4% | +16.6% | +19.6% |
-| Category average (Equity Mid Cap) | +14.3% | +13.3% | +15.8% | +18.2% |
-| Rank (Equity Mid Cap) | 13 | 3 | 8 | -- |
+| Fund returns | +15.3% | +16.4% | +16.6% | +19.6% |
+| Category average (Equity Mid Cap) | +14.2% | +13.2% | +15.7% | +18.2% |
+| Rank (Equity Mid Cap) | 14 | 3 | 8 | -- |
 
 ## Understand terms
 
@@ -151,11 +151,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | HSBC Midcap Fund Direct Growth | +11.75% | +21.43% | 16,799.59 |
-|  | Invesco India Mid Cap Fund Direct Growth | +1.77% | +21.36% | 15,748.82 |
-|  | WhiteOak Capital Mid Cap Fund Direct Growth | +7.46% | +20.03% | 8,399.70 |
-|  | Edelweiss Mid Cap Direct Plan Growth | +2.18% | +18.98% | 19,230.15 |
-|  | Nippon India Growth Mid Cap Fund Direct Growth | +2.57% | +16.54% | 50,176.01 |
+|  | HSBC Midcap Fund Direct Growth | +11.67% | +21.30% | 16,799.59 |
+|  | Invesco India Mid Cap Fund Direct Growth | +0.95% | +21.20% | 15,748.82 |
+|  | WhiteOak Capital Mid Cap Fund Direct Growth | +7.16% | +19.83% | 8,399.70 |
+|  | Edelweiss Mid Cap Direct Plan Growth | +1.50% | +18.92% | 19,230.15 |
+|  | Nippon India Growth Mid Cap Fund Direct Growth | +1.76% | +16.36% | 50,176.01 |
 | Compare  |
 
 ### Fund management

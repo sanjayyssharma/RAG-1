@@ -6,10 +6,10 @@ Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹57,838 |  | -3.60% |
-| 3 years | ₹1,80,000 | ₹1,84,820 |  | +2.68% |
-| 5 years | ₹3,00,000 | ₹3,88,295 |  | +29.43% |
-| 10 years | ₹6,00,000 | ₹12,12,274 |  | +102.05% |
+| 1 year | ₹60,000 | ₹58,118 |  | -3.14% |
+| 3 years | ₹1,80,000 | ₹1,85,703 |  | +3.17% |
+| 5 years | ₹3,00,000 | ₹3,90,078 |  | +30.03% |
+| 10 years | ₹6,00,000 | ₹12,17,403 |  | +102.90% |
 
 ## Holdings (64)
 
@@ -98,9 +98,9 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +12.0% | +12.2% | +12.8% | +13.6% |
-| Category average (Equity ELSS) | +10.4% | +9.2% | +13.0% | +16.9% |
-| Rank (Equity ELSS) | 11 | 5 | 17 | -- |
+| Fund returns | +12.1% | +12.3% | +12.8% | +13.7% |
+| Category average (Equity ELSS) | +10.6% | +9.3% | +13.0% | +17.0% |
+| Rank (Equity ELSS) | 11 | 4 | 16 | -- |
 
 ## Understand terms
 

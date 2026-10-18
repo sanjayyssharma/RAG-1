@@ -1,14 +1,14 @@
 
-HDFC Focused Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+14.81%3Y annualised+0.40% 1D1M6M1Y3Y5YAllNAV: 16 Oct '26₹261.24Min. for SIP₹100Fund size (AUM)₹26,552.91 CrExpense ratio0.83%Rating5### Return calculator
+HDFC Focused Fund Direct Growth - NAV, Mutual Fund Performance & PortfolioStocksInvest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.IntradayMonitor top intraday performers in real timeETF ScreenerGet the best of Mutual Funds and flexibility of StocksIPOTrack upcoming and ongoing IPOsMTFsBuy now, pay laterStock ScreenerFilter based on RSI, PE ratio and moreStock EventsDividends, bonus, buybacks and moreDemat AccountBegin your stock market journeyShare Market TodayLive news updates from stock marketF&OTrade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single spaceIndicesTrack markets across the globeTerminalTrack charts, orders, positions, watchlists in one placeOption chainAnalyse chains, view payoffs, create basketsPledgeGet extra balance for tradingCommoditiesTrade in Crude Oil, Gold, Silver and moreAPI tradingSet up and execute trades through our APIMutual FundsInvest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPsMutual Fund HousesKnow about AMCs, funds, fund managersNFO’sTrack all active NFOs in one placeMutual Funds by GrowwMutual funds by Groww designed for your investment goalsStart SIPBuild long-term wealth through disciplined monthly investing.Mutual Funds screenerFilter funds based on risk, fund size and moreTrack FundsImport funds and track all investments in a single placeCompare FundsMoreSIP calculatorEstimate returns on a SIPBrokerage calculatorEstimate charges for your trade/investmentMargin calculatorEstimate balance needed to buy/sell a stockSWP calculatorReturns on your systematic withdrawal planPricingBrokerage and charges on GrowwBlogCreditLoan against securities and Personal loan+14.91%3Y annualised+0.40% 1D1M6M1Y3Y5YAllNAV: 16 Oct '26₹261.24Min. for SIP₹100Fund size (AUM)₹26,552.91 CrExpense ratio0.83%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
 | Over the past | Total investment | Would've become | Historic returns | Returns |
 | --- | --- | --- | --- | --- |
-| 1 year | ₹60,000 | ₹59,412 |  | -0.98% |
-| 3 years | ₹1,80,000 | ₹1,95,658 |  | +8.70% |
-| 5 years | ₹3,00,000 | ₹4,18,336 |  | +39.45% |
-| 10 years | ₹6,00,000 | ₹13,94,055 |  | +132.34% |
+| 1 year | ₹60,000 | ₹59,633 |  | -0.61% |
+| 3 years | ₹1,80,000 | ₹1,96,381 |  | +9.10% |
+| 5 years | ₹3,00,000 | ₹4,19,842 |  | +39.95% |
+| 10 years | ₹6,00,000 | ₹13,98,501 |  | +133.08% |
 
 ## Holdings (33)
 
@@ -68,8 +68,8 @@ Annualised returnsAbsolute returns
 
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
-| Fund returns | +14.8% | +15.7% | +14.4% | +14.5% |
-| Category average (Equity Flexi Cap) | +11.8% | +9.8% | +13.5% | +14.6% |
+| Fund returns | +14.9% | +15.8% | +14.4% | +14.5% |
+| Category average (Equity Flexi Cap) | +12.0% | +9.9% | +13.5% | +14.7% |
 | Rank (Equity Flexi Cap) | 4 | 1 | 4 | -- |
 
 ## Understand terms
@@ -107,11 +107,11 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | ITI Flexi Cap Fund Direct Growth | +9.35% | +17.98% | 1,588.27 |
-|  | Bank of India Flexi Cap Fund Direct Growth | +7.52% | +17.73% | 3,098.01 |
-|  | HDFC Flexi Cap Direct Plan Growth | -2.73% | +14.74% | 1,08,546.97 |
-|  | HSBC Flexi Cap Fund Direct Growth | +2.82% | +14.73% | 5,748.73 |
-|  | Franklin India Flexi Cap Fund Direct Growth | -6.54% | +9.54% | 18,188.24 |
+|  | ITI Flexi Cap Fund Direct Growth | +9.04% | +18.00% | 1,588.27 |
+|  | Bank of India Flexi Cap Fund Direct Growth | +7.81% | +17.89% | 3,098.01 |
+|  | HDFC Flexi Cap Direct Plan Growth | -3.40% | +14.74% | 1,08,546.97 |
+|  | HSBC Flexi Cap Fund Direct Growth | +2.31% | +14.71% | 5,748.73 |
+|  | Franklin India Flexi Cap Fund Direct Growth | -6.92% | +9.63% | 18,188.24 |
 | Compare  |
 
 ### Fund management
