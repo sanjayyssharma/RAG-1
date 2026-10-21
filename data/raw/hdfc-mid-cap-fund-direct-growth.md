@@ -117,7 +117,7 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +15.2% | +16.5% | +16.4% | +19.5% |
-| Category average (Equity Mid Cap) | +14.2% | +13.2% | +15.7% | +18.2% |
+| Category average (Equity Mid Cap) | +14.0% | +13.2% | +15.6% | +18.1% |
 | Rank (Equity Mid Cap) | 12 | 3 | 7 | -- |
 
 ## Understand terms
@@ -154,10 +154,10 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
-|  | Invesco India Mid Cap Fund Direct Growth | +0.89% | +21.07% | 15,748.82 |
+|  | Invesco India Mid Cap Fund Direct Growth | +0.89% | +21.07% | 15,748.83 |
 |  | HSBC Midcap Fund Direct Growth | +10.76% | +20.98% | 16,799.59 |
-|  | WhiteOak Capital Mid Cap Fund Direct Growth | +6.35% | +19.66% | 8,399.70 |
-|  | Edelweiss Mid Cap Direct Plan Growth | +1.11% | +18.84% | 19,230.15 |
+|  | WhiteOak Capital Mid Cap Fund Direct Growth | +6.35% | +19.66% | 8,399.71 |
+|  | Edelweiss Mid Cap Direct Plan Growth | +1.11% | +18.84% | 19,230.16 |
 |  | Nippon India Growth Mid Cap Fund Direct Growth | +1.23% | +16.10% | 50,176.01 |
 | Compare  |
 

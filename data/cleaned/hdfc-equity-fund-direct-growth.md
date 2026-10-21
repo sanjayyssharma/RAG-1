@@ -1,6 +1,6 @@
 # HDFC Flexi Cap Direct Plan Growth
 
-NAV: 19 Oct '26₹2,162.16Min. for SIP₹100Fund size (AUM)₹1,08,546.97 CrExpense ratio0.75%Rating5### Return calculator
+NAV: 19 Oct '26₹2,162.16Min. for SIP₹100Fund size (AUM)₹1,08,546.98 CrExpense ratio0.75%Rating5### Return calculator
 
 Monthly SIPOne timeMonthly investment₹5,000
 
@@ -121,8 +121,8 @@ Annualised returnsAbsolute returns
 | Name | 3Y | 5Y | 10Y | All |
 | --- | --- | --- | --- | --- |
 | Fund returns | +14.4% | +14.4% | +15.2% | +15.5% |
-| Category average (Equity Flexi Cap) | +11.2% | +9.5% | +13.2% | +14.0% |
-| Rank (Equity Flexi Cap) | 10 | 3 | 2 | -- |
+| Category average (Equity Flexi Cap) | +10.9% | +9.3% | +13.0% | +14.0% |
+| Rank (Equity Flexi Cap) | 11 | 4 | 3 | -- |
 
 ## Understand terms
 
@@ -159,9 +159,9 @@ If you redeem within one year, returns are taxed at 20%. If you redeem after one
 |  | Name | 1Y | 3Y | Fund Size(Cr) |
 | --- | --- | --- | --- | --- |
 |  | Bank of India Flexi Cap Fund Direct Growth | +6.54% | +17.68% | 3,098.01 |
-|  | ITI Flexi Cap Fund Direct Growth | +7.46% | +17.34% | 1,588.27 |
-|  | HSBC Flexi Cap Fund Direct Growth | +1.14% | +14.49% | 5,748.73 |
-|  | HDFC Flexi Cap Direct Plan Growth | -4.50% | +14.41% | 1,08,546.97 |
+|  | ITI Flexi Cap Fund Direct Growth | +7.46% | +17.34% | 1,588.28 |
+|  | HSBC Flexi Cap Fund Direct Growth | +1.14% | +14.49% | 5,748.74 |
+|  | HDFC Flexi Cap Direct Plan Growth | -4.50% | +14.41% | 1,08,546.98 |
 |  | Franklin India Flexi Cap Fund Direct Growth | -8.18% | +9.35% | 18,188.24 |
 | Compare  |
 
